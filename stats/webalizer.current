@@ -1,0 +1,3838 @@
+# Webalizer V2.23-08 Incremental Data - 07/19/2020 16:07:34
+2020 7 19 16 7 34
+12611 11102 543 448 155 14 189900091 4913 608 0 0 0
+287 98 552 3 19
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5 0 1740 5 5 5 0 0
+0 0 0 0 0 0 0 0
+138 121 3282641 108 29 9 0 0
+0 0 0 0 0 0 0 0
+1770 1594 31637827 260 680 75 0 0
+642 579 10577730 196 218 36 0 0
+681 577 13546336 250 115 17 0 0
+746 695 12978103 207 255 53 0 0
+1478 1171 17759437 176 880 26 0 0
+1172 1050 14683869 243 497 26 0 0
+704 581 10897318 264 205 31 0 0
+113 98 2730806 97 8 2 0 0
+106 97 2531209 52 18 1 0 0
+1272 1131 19724031 270 491 85 0 0
+1786 1638 17989120 251 944 179 0 0
+993 894 13572098 318 357 54 0 0
+1005 876 17987826 287 211 9 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+97 93 2178805 18 0 0
+352 292 6502697 73 0 0
+575 486 9067180 155 0 0
+537 496 6848531 177 0 0
+841 773 12528259 280 0 0
+804 677 8596190 436 0 0
+415 382 8266316 200 0 0
+198 161 3402330 101 0 0
+605 554 11428958 199 0 0
+530 456 7973960 223 0 0
+1103 940 20729914 325 0 0
+1312 1214 20514518 512 0 0
+1631 1447 24708633 485 0 0
+932 800 11042821 463 0 0
+609 524 7029729 400 0 0
+555 505 8063763 177 0 0
+989 850 15978622 371 0 0
+296 257 2712500 204 0 0
+202 173 1989864 110 0 0
+1 1 2193 1 0 0
+27 21 334308 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+11102
+0
+0
+0
+0
+0
+0
+0
+2
+32
+122
+958
+0
+132
+0
+0
+0
+31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+232
+0
+0
+0
+0
+0
+# -urls- 
+/assets/css/custom-style.css
+0 57 0 2223059 0 0 0 0
+/student/category
+0 2 0 18742 0 0 0 0
+/phpmyadmin/js/doclinks.js
+0 17 0 97279 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/Buttons-1.4.2/js/dataTables.buttons.min.js
+0 58 0 438753 0 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery-migrate.js
+0 17 0 138113 0 0 0 0
+/phpmyadmin/js/table/change.js
+0 15 0 146670 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_engine.png
+1 8 0 17089 0 0 0 0
+/backup
+0 3 0 30948 0 1 0 0
+/fees/delete_extra_fees/24
+0 1 0 2273 0 0 0 0
+/userrole/livejoin
+0 30 0 79178 2 6 0 0
+/uploads/language_flags/flag_20_thumb.png
+1 56 0 105998 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_drop.png
+1 13 0 32822 0 0 0 0
+/assets/js/employee.js
+0 2 0 5932 0 0 0 0
+/custom_field/getFieldsByBranch
+0 14 0 30180 1 1 0 0
+/assets/vendor/sweetalert/sweetalert.min.js
+0 70 0 872484 0 0 0 0
+/assets/vendor/summernote/font/summernote.woff
+0 1 0 10293 0 0 0 0
+/fees/fine_report
+0 1 0 10863 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css
+0 15 0 33565 0 0 0 0
+/phpmyadmin/themes/pmahomme/css/printview.css
+0 15 0 38425 0 0 0 0
+/assets/login_page/js/jquery.backstretch.min.js
+0 64 0 503343 0 0 0 0
+/phpmyadmin/version_check.php
+0 9 0 21453 1 1 0 0
+/phpmyadmin/js/console.js
+0 17 0 211065 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_status.png
+1 8 0 18705 0 0 0 0
+/phpmyadmin/themes/pmahomme/css/theme.css
+0 64 0 1428554 0 0 0 0
+/userrole/subject
+0 38 0 268377 15 12 0 0
+/phpmyadmin/js/vendor/jquery/jquery.event.drag-2.2.js
+0 18 0 110219 0 0 0 0
+/student/csv_import
+0 4 0 45562 1 0 0 0
+/userrole/attendance
+0 8 0 55295 0 1 0 0
+/uploads/app_image/logo-small.png
+1 58 0 459297 0 0 0 0
+/phpmyadmin/tbl_change.php
+0 6 0 66880 0 0 0 0
+/subject/extra_subject_delete/17
+0 1 0 2273 0 0 0 0
+/live_class/
+0 3 0 36674 2 0 0 0
+/subject/extra_subject_delete/41
+0 1 0 2273 0 0 0 0
+/assets/vendor/select2/css/select2.css
+0 57 0 230280 0 0 0 0
+/fees/payment_history
+0 198 0 2156483 17 6 0 0
+/homework/report
+0 1 0 11288 0 0 0 0
+/fees/getBalanceByType
+0 18 0 39975 1 2 0 0
+/assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css
+0 57 0 241794 0 0 0 0
+/assets/vendor/jquery-browser-mobile/jquery.browser.mobile.js
+0 58 0 180529 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_view_add.png
+1 13 0 28448 0 0 0 0
+/uploads/app_image/report-card-logo.png
+1 9 0 226797 0 0 0 0
+/subject/extra_subject_delete/22
+0 1 0 2273 1 0 0 0
+/assets/js/custom.js
+0 58 0 567745 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/pdfmake-0.1.32/pdfmake.min.js.map
+0 6 0 5983207 0 0 0 0
+/phpmyadmin/
+0 317 0 1850094 36 52 0 0
+/subject/extra_subject_delete/21
+0 2 0 4546 1 1 0 0
+/employee/profile/2
+0 1 0 14273 0 0 0 0
+/phpmyadmin/js/vendor/jquery/additional-methods.js
+0 3 0 47880 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/pdfmake-0.1.32/vfs_fonts.js
+0 58 0 28720509 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_db.png
+1 15 0 31993 0 0 0 0
+/userrole/invoice
+0 10 0 81519 2 4 0 0
+/assets/vendor/datatables/extras/TableTools/JSZip-2.5.0/jszip.min.js
+0 58 0 1492181 0 0 0 0
+/accounting/transitions_repots
+0 6 0 63832 1 0 0 0
+/userrole/exam_schedule
+0 1 0 7325 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_insrow.png
+1 13 0 25309 0 0 0 0
+/event/get_events_list/1
+0 5 0 8518 0 1 0 0
+/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf
+0 1 0 54347 0 0 0 0
+/phpmyadmin/js/error_report.js
+0 17 0 79378 0 0 0 0
+/assets/vendor/sweetalert/sweetalert-custom.css
+0 69 0 424696 0 0 0 0
+/custom_field
+0 3 0 33872 1 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.5.js
+0 17 0 41990 0 0 0 0
+/uploads/language_flags/flag_8_thumb.png
+1 58 0 102221 0 0 0 0
+/phpmyadmin/js/menu_resizer.js
+0 17 0 72391 0 0 0 0
+/subject/extra_subject_delete/18
+0 1 0 2273 0 0 0 0
+/subject/extra_subject_delete/14
+0 1 0 2273 0 0 0 0
+/employee/department
+0 3 0 33555 0 0 0 0
+/assets/vendor/modernizr/modernizr.js
+0 58 0 434577 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_calendar.png
+1 3 0 7626 0 0 0 0
+/subject/edit_extra_subject
+0 43 0 119764 19 24 0 0
+/phpmyadmin/js/drag_drop_import.js
+0 17 0 94780 0 0 0 0
+/authentication/logout
+0 17 0 34770 3 1 0 0
+/assets/vendor/summernote/summernote.css
+0 7 0 30394 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_tbloptimize.png
+1 3 0 6297 0 0 0 0
+/assets/vendor/select2-bootstrap-theme/select2-bootstrap.min.css
+0 57 0 225227 0 0 0 0
+/phpmyadmin/lint.php
+0 17 0 49172 2 2 0 0
+/live_class/hostModal
+0 34 0 83459 9 2 0 0
+/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2
+0 68 0 2842926 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/bd_empty.png
+1 8 0 18192 0 0 0 0
+/classes/teacher_allocation_save
+0 2 0 3360 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_plugin.png
+1 8 0 18001 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_top.png
+1 15 0 27995 0 0 0 0
+/assets/vendor/jquery-ui/jquery-ui.min.js
+0 58 0 1887970 0 0 0 0
+/subject/extra_subject_delete/11
+0 1 0 2273 0 0 0 0
+/subject/extra_subject_assign_save
+0 43 0 103928 13 2 0 0
+/timetable/viewclass
+0 9 0 95184 0 1 0 0
+/assets/vendor/fuelux/js/spinner.js
+0 58 0 201630 0 0 0 0
+/subject/extra_subject_delete/16
+0 1 0 2273 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_loggoff.png
+1 15 0 30852 0 0 0 0
+/fees/group
+0 4 0 46020 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_primary.png
+1 3 0 7449 0 0 0 0
+/assets/images/theme/rounded.png
+1 9 0 59670 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_unique.png
+1 3 0 7590 0 0 0 0
+/phpmyadmin/js/vendor/sprintf.js
+0 17 0 76828 0 0 0 0
+/assets/vendor/nanoscroller/nanoscroller.js
+0 58 0 302453 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 15 0 156837 0 0 0 0
+/subject/extra_subject_delete/40
+0 1 0 2273 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/Buttons-1.4.2/js/buttons.html5.min.js
+0 58 0 467811 0 0 0 0
+/payroll
+0 1 0 6938 0 0 0 0
+/homework/add
+0 2 0 11179 0 0 0 0
+/assets/vendor/bootstrap/js/bootstrap.js
+0 70 0 1128404 0 0 0 0
+/library/getBookApprovelDetails
+0 4 0 12651 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/addon/lint/lint.js
+0 17 0 77389 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/console.png
+1 15 0 28514 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_rights.png
+1 15 0 33855 0 0 0 0
+/leave/getCategory
+0 20 0 48298 0 0 0 0
+/uploads/language_flags/flag_17_thumb.png
+1 56 0 99130 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_props.png
+1 15 0 34011 0 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery.min.js
+0 17 0 556430 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+1 15 0 65397 0 0 0 0
+/ajax/getStudentByClassForExtraSubject
+0 61 0 138420 6 18 0 0
+/assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css.map
+0 4 0 10772 0 0 0 0
+/subject/extra_subject_delete/23
+0 1 0 2273 0 0 0 0
+/cron_api
+0 1 0 8777 0 1 0 0
+/uploads/language_flags/flag_5_thumb.png
+1 58 0 107882 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js
+0 17 0 50694 0 0 0 0
+/fees/fine_setup
+0 1 0 11262 1 0 0 0
+/subject/index
+0 16 0 179917 1 0 0 0
+/assets/vendor/bootstrap-fileupload/bootstrap-fileupload.min.css
+0 7 0 17887 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_help.png
+1 15 0 38109 0 0 0 0
+/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2
+0 68 0 671670 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 4 0 8272 0 0 0 0
+/phpmyadmin/ajax.php
+0 162 0 686796 2 1 0 0
+/assets/vendor/datatables/extras/TableTools/RowGroup-1.0.2/js/dataTables.rowGroup.min.js
+0 58 0 180053 0 0 0 0
+/assets/vendor/magnific-popup/magnific-popup.css
+0 57 0 204663 0 0 0 0
+/fees/invoice/1
+0 78 0 958084 15 17 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+1 13 0 24973 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_asc.png
+1 9 0 18828 0 0 0 0
+/phpmyadmin/js/common.js
+0 18 0 61048 0 0 0 0
+/assets/vendor/magnific-popup/jquery.magnific-popup.js
+0 58 0 836266 0 0 0 0
+/fees/group/1
+0 3 0 16289 0 0 0 0
+/subject/extra_subject_delete/39
+0 1 0 2273 0 0 0 0
+/subject/extra_subject_delete/13
+0 1 0 2273 1 0 0 0
+/classes/teacher_allocation
+0 17 0 194588 6 5 0 0
+/phpmyadmin/tbl_sql.php
+0 2 0 15126 0 0 0 0
+/sections/save
+0 2 0 3234 0 0 0 0
+/userrole/attachments
+0 3 0 18503 0 1 0 0
+/phpmyadmin/js/vendor/jquery/jquery.mousewheel.js
+0 18 0 81467 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/lib/codemirror.css
+0 15 0 67271 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png
+1 4 0 22852 0 0 0 0
+/fees/delete_extra_fees/21
+0 1 0 2273 1 0 0 0
+/phpmyadmin/js/rte.js
+0 17 0 178527 0 0 0 0
+/subject/extra_subject_delete/34
+0 1 0 2273 1 0 0 0
+/assets/vendor/summernote/summernote.js
+0 7 0 314892 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_no_favorite.png
+1 8 0 18592 0 0 0 0
+/library/book
+0 23 0 232921 1 2 0 0
+/assets/js/app.js
+0 58 0 332207 0 0 0 0
+/subject/teacher_assign
+0 22 0 224081 2 2 0 0
+/assets/login_page/js/custom.js
+0 63 0 113164 0 0 0 0
+/school_settings
+0 6 0 55628 0 0 0 0
+/accounting/voucher_expense
+0 1 0 11527 1 0 0 0
+/assets/vendor/datatables/extras/TableTools/Buttons-1.4.2/js/buttons.colVis.min.js
+0 58 0 159221 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+1 13 0 26741 0 0 0 0
+/student/csv_Sampledownloader
+0 1 0 2511 0 1 0 0
+/phpmyadmin/themes/pmahomme/img/b_browse.png
+1 13 0 27296 0 0 0 0
+/subject
+0 5 0 54973 0 0 0 0
+/phpmyadmin/navigation.php
+0 118 0 668459 1 10 0 0
+/fees/type
+0 31 0 285852 9 3 0 0
+/phpmyadmin/themes/pmahomme/img/b_export.png
+1 12 0 27861 0 0 0 0
+/phpmyadmin/js/multi_column_sort.js
+0 15 0 49665 0 0 0 0
+/assets/vendor/nanoscroller/jquery.nanoscroller.min.js.map
+0 4 0 51422 0 0 0 0
+/subject/extra_subject_delete/38
+0 1 0 2273 0 0 0 0
+/assets/css/idcard.css
+0 4 0 8464 0 0 0 0
+/userrole/homework
+0 4 0 25894 1 2 0 0
+/favicon.ico
+0 191 0 615076 0 0 0 0
+/phpmyadmin/js/config.js
+0 18 0 158129 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_minus.png
+1 15 0 29364 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/pdfmake-0.1.32/pdfmake.min.js
+0 58 0 25360164 0 0 0 0
+/assets/vendor/select2/js/select2.js
+0 58 0 1935646 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_plus.png
+1 15 0 27456 0 0 0 0
+/phpmyadmin/db_sql_autocomplete.php
+0 2 0 21333 1 0 0 0
+/assets/vendor/datatables/media/js/dataTables.bootstrap.min.js
+0 58 0 164790 0 0 0 0
+/live_class
+0 64 0 673892 7 12 0 0
+/phpmyadmin/js/indexes.js
+0 17 0 144148 0 0 0 0
+/phpmyadmin/js/shortcuts_handler.js
+0 17 0 48008 0 0 0 0
+/assets/images/theme/light.png
+1 9 0 354498 0 0 0 0
+/phpmyadmin/js/database/structure.js
+0 8 0 48768 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_cog.png
+1 15 0 33589 0 0 0 0
+/event/types
+0 1 0 11737 1 0 0 0
+/assets/images/favicon.png
+1 49 0 224059 0 0 0 0
+/subject/class_assign_edit
+0 3 0 7428 0 0 0 0
+/phpmyadmin/tbl_row_action.php
+0 17 0 108259 5 0 0 0
+/assets/vendor/dropify/js/dropify.min.js
+0 30 0 141767 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_relations.png
+1 9 0 18774 0 0 0 0
+/library/book_edit/1
+0 1 0 11461 0 0 0 0
+/fees/invoice_list
+0 85 0 952682 8 4 0 0
+/phpmyadmin/themes/pmahomme/img/s_host.png
+1 15 0 30607 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/addon/lint/lint.css
+0 15 0 47725 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_docs.png
+1 15 0 31405 0 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery.validate.js
+0 18 0 279636 0 0 0 0
+/assets/login_page/image/sidebox.jpg
+1 63 0 862940 0 0 0 0
+/phpmyadmin/js/gis_data_editor.js
+0 15 0 86475 0 0 0 0
+/uploads/language_flags/flag_3_thumb.png
+1 58 0 97324 0 0 0 0
+/sessions
+0 1 0 9141 0 1 0 0
+/student/profile/1
+0 6 0 87914 2 1 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblimport.png
+1 13 0 27716 0 0 0 0
+/assets/vendor/bootstrap-fileupload/bootstrap-fileupload.min.js
+0 7 0 19840 0 0 0 0
+/school_settings/live_class_config
+0 1 0 9030 0 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery-ui.min.js
+0 18 0 1267792 0 0 0 0
+/assets/js/student.js
+0 25 0 67050 0 0 0 0
+/live_class/edit/1
+0 4 0 24300 1 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_vars.png
+1 8 0 18089 0 0 0 0
+/ajax/getClassAssignM
+0 6 0 15011 0 1 0 0
+/fees/delete_extra_fees/20
+0 1 0 2273 0 1 0 0
+/subject/extra_subject_delete/24
+0 1 0 2273 0 0 0 0
+/subject/extra_assign_subject
+0 160 0 390664 16 54 0 0
+/assets/login_page/css/style.css
+0 65 0 254007 0 0 0 0
+/accounting/getVoucherHead
+0 2 0 4706 1 0 0 0
+/attachments/type
+0 3 0 33451 0 0 0 0
+/phpmyadmin/js/ajax.js
+0 17 0 177303 0 0 0 0
+/exam/mark_entry
+0 3 0 27690 3 1 0 0
+/assets/images/theme/dark.png
+1 9 0 418065 0 0 0 0
+/uploads/login_image/slider_2.jpg
+1 60 0 5170843 0 0 0 0
+/uploads/language_flags/flag_12_thumb.png
+1 58 0 101050 0 0 0 0
+/classes/getAllocationTeacher
+0 6 0 17871 3 3 0 0
+/subject/extra_subject_delete/33
+0 1 0 2273 0 0 0 0
+/assets/vendor/moment/moment.js
+0 50 0 1754245 0 0 0 0
+/dashboard
+0 104 0 1147921 5 5 0 0
+/accounting/all_transactions
+0 1 0 10356 0 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js
+0 15 0 51495 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+1 13 0 26624 0 0 0 0
+/subject/class_assign_delete/1/1
+0 2 0 4546 1 0 0 0
+/ajax/getDataByBranch
+0 163 0 382858 8 7 0 0
+/phpmyadmin/themes/pmahomme/img/b_edit.png
+1 13 0 26642 0 0 0 0
+/uploads/app_image/defualt.png
+1 58 0 5037358 0 0 0 0
+/classes
+0 18 0 153809 1 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblanalyse.png
+1 9 0 18882 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/Buttons-1.4.2/js/buttons.print.min.js
+0 58 0 160034 0 0 0 0
+/ajax/getStudentByClass
+0 57 0 127800 0 1 0 0
+/student/add
+0 48 0 594292 5 8 0 0
+/student/transfer
+0 2 0 21778 0 1 0 0
+/assets/vendor/bootstrap-timepicker/bootstrap-timepicker.js
+0 15 0 128958 0 0 0 0
+/assets/vendor/datatables/media/js/jquery.dataTables.min.js
+0 58 0 1735546 0 0 0 0
+/role/permission/2
+0 1 0 12566 0 0 0 0
+/ajax/getSectionByClass
+0 189 0 404855 12 9 0 0
+/uploads/language_flags/flag_6_thumb.png
+1 58 0 106386 0 0 0 0
+/phpmyadmin/js/sql.js
+0 15 0 186240 0 0 0 0
+/assets/vendor/screenfull/screenfull.min.js
+0 58 0 152900 0 0 0 0
+/userrole/book
+0 1 0 7356 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png
+1 4 0 8288 0 0 0 0
+/assets/vendor/daterangepicker/daterangepicker.js
+0 24 0 324858 0 0 0 0
+/uploads/language_flags/flag_9_thumb.png
+1 58 0 103122 0 0 0 0
+/assets/vendor/chartjs/chart.min.js
+0 45 0 2227202 0 0 0 0
+/profile
+0 11 0 125790 2 2 0 0
+/uploads/language_flags/flag_21_thumb.png
+1 56 0 102012 0 0 0 0
+/subject/extra_subject_delete/7
+0 1 0 2273 0 0 0 0
+/uploads/language_flags/flag_16_thumb.png
+1 56 0 106086 0 0 0 0
+/library/book_manage
+0 22 0 270412 5 2 0 0
+/userrole/live_class
+0 38 0 263672 5 4 0 0
+/phpmyadmin/themes/pmahomme/img/b_print.png
+1 13 0 28214 0 0 0 0
+/student/quickDetails
+0 4 0 10510 1 2 0 0
+/phpmyadmin/themes/pmahomme/img/b_ftext.png
+1 3 0 7491 0 0 0 0
+/phpmyadmin/js/functions.js
+0 18 0 788704 0 0 0 0
+/subject/extra_subject_delete/19
+0 1 0 2273 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_newdb.png
+1 2 0 5064 0 0 0 0
+/library/request
+0 5 0 54979 1 0 0 0
+/subject/getByClassSection
+0 7 0 13924 0 0 0 0
+/uploads/app_image/logo.png
+1 65 0 1190456 0 0 0 0
+/phpmyadmin/js/keyhandler.js
+0 18 0 54370 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_sqlhelp.png
+1 15 0 34569 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_home.png
+1 15 0 31608 0 0 0 0
+/fees/due_invoice
+0 3 0 33685 2 0 0 0
+/fees/student_fees_report
+0 34 0 406559 6 1 0 0
+/phpmyadmin/js/vendor/js.cookie.js
+0 17 0 58956 0 0 0 0
+/fees/delete_extra_fees/23
+0 1 0 2273 0 0 0 0
+/assets/css/ramom.css
+0 57 0 443517 0 0 0 0
+/assets/vendor/font-awesome/webfonts/fa-brands-400.woff2
+0 68 0 2380626 0 0 0 0
+/userrole/joinModal
+0 21 0 45403 0 0 0 0
+/assets/vendor/jquery/jquery.js
+0 65 0 5284956 0 0 0 0
+/subject/extra_subject_delete/25
+0 2 0 4546 0 0 0 0
+/uploads/language_flags/flag_14_thumb.png
+1 58 0 116326 0 0 0 0
+/assets/vendor/datatables/media/css/dataTables.bootstrap.min.css
+0 57 0 153003 0 0 0 0
+/userrole/teachers
+0 4 0 29514 1 1 0 0
+/phpmyadmin/themes/pmahomme/img/b_chart.png
+1 13 0 29402 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_select.png
+1 8 0 20320 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_import.png
+1 12 0 28365 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_empty.png
+1 8 0 19744 0 0 0 0
+/fees/delete_extra_fees/22
+0 1 0 2273 1 0 0 0
+/phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js
+0 17 0 413472 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_65_ffffff_1x400.png
+1 4 0 8072 0 0 0 0
+/ajax/getClassByBranch
+0 324 0 762936 19 12 0 0
+/assets/vendor/daterangepicker/daterangepicker.css
+0 24 0 85540 0 0 0 0
+/uploads/login_image/slider_1.jpg
+1 64 0 4248137 0 0 0 0
+/uploads/language_flags/flag_13_thumb.png
+1 58 0 111896 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_triggers.png
+1 13 0 27056 0 0 0 0
+/ajax/getSubjectByClass
+0 1 0 2441 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_notice.png
+1 5 0 12570 0 0 0 0
+/assets/images/theme/square.png
+1 9 0 58248 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_table_add.png
+1 15 0 36099 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png
+1 2 0 4258 0 0 0 0
+/assets/js/app.fn.js
+0 479 0 2428855 0 0 0 0
+/uploads/language_flags/flag_11_thumb.png
+1 58 0 103564 0 0 0 0
+/subject/extra_subject_delete/20
+0 1 0 2273 0 0 0 0
+/uploads/language_flags/flag_4_thumb.png
+1 58 0 100276 0 0 0 0
+/exam/marksheet
+0 1 0 11180 0 0 0 0
+/fees/invoice/2
+0 85 0 994729 23 26 0 0
+/subject/edit/4
+0 1 0 10950 0 0 0 0
+/phpmyadmin/server_databases.php
+0 2 0 11083 2 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_888888_256x240.png
+1 4 0 22852 0 0 0 0
+/library/bookReturn
+0 1 0 2467 0 0 0 0
+/phpmyadmin/js/messages.php
+0 24 0 256388 0 2 0 0
+/phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js
+0 18 0 377311 0 0 0 0
+/employee/view/
+0 2 0 21031 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/lib/codemirror.js
+0 17 0 1832942 0 0 0 0
+/fees/getGroupByBranch
+0 5 0 12127 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/bd_browse.png
+1 8 0 17744 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/window-new.png
+1 15 0 33953 0 0 0 0
+/subject/save
+0 5 0 12213 1 0 0 0
+/userrole/report_card
+0 1 0 7180 0 0 0 0
+/assets/vendor/bootstrap-timepicker/css/bootstrap-timepicker.css
+0 15 0 38775 0 0 0 0
+/student/view
+0 67 0 752478 9 3 0 0
+/phpmyadmin/favicon.ico
+0 13 0 135220 0 0 0 0
+/phpmyadmin/js/makegrid.js
+0 15 0 307065 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_passwd.png
+1 8 0 16553 0 0 0 0
+/phpmyadmin/db_structure.php
+0 33 0 571965 3 2 0 0
+/uploads/language_flags/defualt_thumb.png
+1 56 0 612692 0 0 0 0
+/assets/vendor/jquery-validation/jquery.validate.js
+0 58 0 846812 0 0 0 0
+/phpmyadmin/sql.php
+0 139 0 1465933 27 6 0 0
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+1 15 0 52755 0 0 0 0
+/accounting/voucher_deposit
+0 2 0 23041 1 2 0 0
+/fees/allocation
+0 18 0 200022 1 1 0 0
+/settings/universal
+0 23 0 398266 1 2 0 0
+/phpmyadmin/themes/pmahomme/img/s_lock.png
+1 4 0 10456 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_sql.png
+1 15 0 36921 0 0 0 0
+/role/edit/3
+0 1 0 10589 0 0 0 0
+/assets/images/profile_bg.png
+1 7 0 109347 0 0 0 0
+/library/category
+0 8 0 80949 0 0 0 0
+/userrole/class_schedule
+0 3 0 20091 1 1 0 0
+/event/get_events_list/
+0 61 0 123681 6 11 0 0
+/dashboard/index
+0 1 0 12998 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js
+0 17 0 117424 0 0 0 0
+/attachments
+0 5 0 58343 1 1 0 0
+/attendance/student_entry
+0 12 0 114224 1 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_success.png
+1 13 0 30758 0 0 0 0
+/fees/type_delete/4
+0 1 0 2273 0 0 0 0
+/fees/getTypeByBranch
+0 220 0 508878 5 13 0 0
+/phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js
+0 17 0 80058 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblexport.png
+1 13 0 31346 0 0 0 0
+/phpmyadmin/js/vendor/tracekit.js
+0 18 0 240936 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_index.png
+1 3 0 7770 0 0 0 0
+/accounting
+0 6 0 66134 0 1 0 0
+/phpmyadmin/themes/pmahomme/img/s_asci.png
+1 8 0 15081 0 0 0 0
+/assets/vendor/simple-line-icons/css/simple-line-icons.css
+0 57 0 256671 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_move.png
+1 3 0 6984 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_theme.png
+1 8 0 20081 0 0 0 0
+/homework
+0 6 0 56684 0 1 0 0
+/uploads/app_image/printing-logo.png
+1 26 0 311797 0 0 0 0
+/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2
+0 74 0 1048677 0 0 0 0
+/attendance/studentwise_report
+0 2 0 22623 0 0 0 0
+/phpmyadmin/js/codemirror/addon/lint/sql-lint.js
+0 17 0 40817 0 0 0 0
+/assets/vendor/fullcalendar/fullcalendar.js
+0 45 0 5862978 0 0 0 0
+/phpmyadmin/tbl_addfield.php
+0 11 0 81360 1 0 0 0
+/employee/view
+0 5 0 48760 1 2 0 0
+/assets/vendor/font-awesome/css/all.min.css
+0 68 0 955842 0 0 0 0
+/subject/class_assign
+0 243 0 3004226 69 26 0 0
+/subject/extra_subject_delete/26
+0 1 0 2273 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_unlink.png
+1 1 0 2536 0 0 0 0
+/uploads/book_cover/defualt.png
+1 4 0 216244 0 0 0 0
+/assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js
+0 58 0 970014 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_desc.png
+1 9 0 18828 0 0 0 0
+/subject/extra_subject_delete/35
+0 1 0 2273 0 0 0 0
+/phpmyadmin/js/page_settings.js
+0 17 0 43877 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+1 16 0 98409 0 0 0 0
+/uploads/language_flags/flag_10_thumb.png
+1 58 0 99520 0 0 0 0
+/role
+0 4 0 39632 0 0 0 0
+/employee/view/3
+0 2 0 21263 0 0 0 0
+/accounting/balance_sheet
+0 2 0 21516 0 0 0 0
+/phpmyadmin/tbl_structure.php
+0 14 0 112274 5 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_routines.png
+1 8 0 18024 0 0 0 0
+/fees/fee_add
+0 15 0 36684 1 0 0 0
+/fees/type_edit/1
+0 1 0 10766 1 1 0 0
+/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 12 0 236384 0 0 0 0
+/system_update
+0 3 0 28041 1 0 0 0
+/subject/extra_subject_delete/15
+0 1 0 2273 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_error.png
+1 13 0 31622 0 0 0 0
+/uploads/login_image/slider_3.jpg
+1 47 0 3760104 0 0 0 0
+/assets/vendor/echarts/echarts.common.min.js
+0 45 0 7063181 0 0 0 0
+/uploads/language_flags/flag_15_thumb.png
+1 58 0 107631 0 0 0 0
+/assets/vendor/bootstrap/css/bootstrap.css
+0 69 0 1587533 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_reload.png
+1 15 0 34779 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/normalize.png
+1 3 0 7356 0 0 0 0
+/event/get_events_list
+0 31 0 55196 0 4 0 0
+/accounting/account_statement
+0 3 0 33361 0 0 0 0
+/phpmyadmin/themes/dot.gif
+1 15 0 26749 0 0 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 4 0 8268 0 0 0 0
+/subject/extra_subject_delete/36
+0 1 0 2273 0 0 0 0
+/phpmyadmin/js/vendor/jquery/jquery.ba-hashchange-1.3.js
+0 17 0 124156 0 0 0 0
+/assets/vendor/jquery-appear/jquery-appear.js
+0 58 0 182538 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+1 15 0 27477 0 0 0 0
+/phpmyadmin/js/table/structure.js
+0 3 0 20985 0 0 0 0
+/fees/add_library_fees
+0 24 0 56966 5 0 0 0
+/phpmyadmin/js/server/databases.js
+0 2 0 7810 0 0 0 0
+/admin
+0 1 0 3321 0 0 0 0
+/live_class/host
+0 32 0 96502 4 6 0 0
+/phpmyadmin/themes/pmahomme/img/b_events.png
+1 8 0 21200 0 0 0 0
+/school_settings/liveClassSave
+0 2 0 1528 1 0 0 0
+/uploads/language_flags/flag_19_thumb.png
+1 56 0 111476 0 0 0 0
+/subject/class_assign_delete/2/1
+0 2 0 4546 0 0 0 0
+/role/permission/3
+0 2 0 29114 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_search.png
+1 13 0 27608 0 0 0 0
+/assets/vendor/fullcalendar/fullcalendar.css
+0 45 0 420270 0 0 0 0
+/uploads/language_flags/flag_1_thumb.png
+1 58 0 103680 0 0 0 0
+/student/generate_idcard
+0 5 0 53997 1 1 0 0
+/phpmyadmin/themes/pmahomme/img/bd_select.png
+1 8 0 18176 0 0 0 0
+/phpmyadmin/import.php
+0 2 0 13873 0 1 0 0
+/assets/vendor/jquery/jquery.min.js
+0 58 0 1888260 0 0 0 0
+/library/book_edit/2
+0 2 0 13863 0 0 0 0
+/employee/designation
+0 3 0 33576 0 0 0 0
+/uploads/language_flags/flag_18_thumb.png
+1 56 0 100196 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_link.png
+1 15 0 31321 0 0 0 0
+/exam/grade
+0 2 0 18313 1 1 0 0
+/ajax/getExamByBranch
+0 1 0 742 1 0 0 0
+/phpmyadmin/js/navigation.js
+0 18 0 260268 0 0 0 0
+/ajax/getStafflistRole
+0 66 0 159914 4 2 0 0
+/assets/vendor/dropify/css/dropify.min.css
+0 30 0 109870 0 0 0 0
+/assets/js/plug.init.js
+0 58 0 146636 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_more.png
+1 15 0 29184 0 0 0 0
+/subject/extra_subject_delete/27
+0 1 0 659 0 0 0 0
+/uploads/language_flags/flag_2_thumb.png
+1 58 0 99180 0 0 0 0
+/phpmyadmin/js/cross_framing_protection.js
+0 17 0 38080 0 0 0 0
+/assets/vendor/datatables/extras/TableTools/Buttons-1.4.2/js/buttons.bootstrap.min.js
+0 58 0 132135 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/s_tbl.png
+1 13 0 32918 0 0 0 0
+/library/bookIssued
+0 12 0 29228 2 1 0 0
+/exam
+0 1 0 9448 0 1 0 0
+/assets/css/skins/default.css
+0 57 0 296420 0 0 0 0
+/assets/vendor/jquery-placeholder/jquery-placeholder.js
+0 69 0 280390 0 0 0 0
+/assets/vendor/bootstrap/css/bootstrap.css.map
+0 5 0 386595 0 0 0 0
+/accounting/voucher_head
+0 1 0 11313 0 0 0 0
+/phpmyadmin/js/vendor/codemirror/mode/sql/sql.js
+0 17 0 259804 0 0 0 0
+/timetable/set_classwise
+0 1 0 10930 0 1 0 0
+/subject/class_assign_save
+0 11 0 23976 6 4 0 0
+/phpmyadmin/js/whitelist.php
+0 22 0 50702 1 0 0 0
+/library/getBooksByCategory
+0 13 0 28638 0 0 0 0
+/userrole/leave_request
+0 1 0 6449 0 1 0 0
+/subject/extra_subject_delete/12
+0 1 0 2273 0 0 0 0
+/fees/due_report
+0 2 0 21626 0 0 0 0
+/communication/mailbox/inbox
+0 8 0 75976 2 1 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+1 13 0 25423 0 0 0 0
+/branch
+0 16 0 168003 4 1 0 0
+/assets/vendor/dropify/fonts/dropify.woff
+0 26 0 114063 0 0 0 0
+/sections
+0 5 0 52164 0 0 0 0
+/uploads/language_flags/flag_7_thumb.png
+1 58 0 101016 0 0 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css
+0 12 0 262344 0 0 0 0
+/authentication
+0 136 0 434610 42 29 0 0
+/live_class/edit/2
+0 1 0 11456 0 0 0 0
+/phpmyadmin/tbl_replace.php
+0 22 0 122113 4 3 0 0
+/employee/add
+0 7 0 66927 0 0 0 0
+/phpmyadmin/themes/pmahomme/img/b_tblops.png
+1 15 0 30229 0 0 0 0
+/student/disable_authentication
+0 1 0 9148 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+162.158.191.148
+0 39 39 348231 0 0 0 0
+-
+172.69.135.48
+0 2 2 17911 1 1594387417 0 0
+/subject/class_assign
+162.158.165.4
+0 52 33 127890 0 0 0 0
+-
+172.68.146.70
+0 5 5 17576 0 0 0 0
+-
+162.158.166.121
+0 31 27 2108879 1 1594375902 0 0
+/student/view
+162.158.165.210
+0 24 24 725078 0 0 0 0
+-
+141.101.99.83
+0 17 17 280635 0 0 0 0
+-
+162.158.165.106
+0 32 28 174411 10 1595039853 0 0
+/fees/getTypeByBranch
+172.69.135.72
+0 9 9 23279 0 0 0 0
+-
+141.101.98.10
+0 16 16 60684 0 0 0 0
+-
+162.158.165.124
+0 4 3 21428 1 1594375866 0 0
+/event/get_events_list/
+172.69.135.60
+0 159 154 1187834 16 1595041494 0 0
+/fees/getTypeByBranch
+162.158.165.178
+0 2 2 4706 0 0 0 0
+-
+162.158.159.10
+0 1 1 5117 0 0 0 0
+-
+162.158.191.136
+0 17 17 291744 0 0 0 0
+-
+162.158.167.6
+0 12 12 32932 0 0 0 0
+-
+162.158.158.77
+0 15 15 2351343 0 0 0 0
+-
+162.158.167.180
+0 119 117 403725 0 0 0 0
+-
+162.158.22.38
+0 1 1 2117 0 0 0 0
+-
+162.158.22.132
+0 4 4 27093 0 0 0 0
+-
+162.158.22.60
+0 3 3 17733 0 0 0 0
+-
+141.101.107.164
+0 1 1 9510 1 1594114987 0 0
+/classes
+162.158.31.150
+0 36 30 3606552 0 0 0 0
+-
+162.158.165.172
+0 1 1 5117 0 0 0 0
+-
+162.158.154.21
+0 1 1 6595 0 0 0 0
+-
+162.158.155.58
+0 16 16 41344 0 0 0 0
+-
+162.158.159.94
+0 1 1 1620 0 0 0 0
+-
+162.158.50.232
+0 36 31 177098 3 1595037661 0 0
+/fees/getTypeByBranch
+172.69.135.150
+0 150 130 2515755 13 1595056830 0 0
+/student/view
+162.158.23.61
+0 14 14 166757 0 0 0 0
+-
+162.158.167.114
+0 3 3 9375 0 0 0 0
+-
+172.69.135.240
+0 4 4 8072 0 0 0 0
+-
+172.68.146.226
+0 3 3 32611 0 0 0 0
+-
+162.158.23.99
+0 7 7 47905 0 0 0 0
+-
+162.158.22.14
+0 1 1 2125 0 0 0 0
+-
+162.158.50.198
+0 16 16 1239812 2 1595037923 0 0
+/ajax/getClassByBranch
+162.158.165.234
+0 1 1 5117 0 0 0 0
+-
+162.158.165.94
+0 4 4 20426 0 0 0 0
+-
+162.158.167.102
+0 71 44 334745 2 1594377483 0 0
+/student/view
+162.158.191.152
+0 11 11 822552 0 0 0 0
+-
+162.158.22.246
+0 10 9 215373 1 1594183306 0 0
+/userrole/livejoin
+172.68.146.166
+0 21 21 139582 4 1594377579 0 0
+/subject/index
+162.158.167.144
+0 6 6 47948 0 0 0 0
+-
+162.158.159.36
+0 5 5 12730 0 0 0 0
+-
+172.68.146.124
+0 2 2 27494 0 0 0 0
+-
+162.158.166.145
+0 8 8 24150 0 0 0 0
+-
+162.158.22.168
+0 2 2 7164 0 0 0 0
+-
+162.158.23.115
+0 6 6 190403 0 0 0 0
+-
+172.69.134.113
+0 52 52 151862 0 0 0 0
+-
+162.158.154.123
+0 1 1 22377 0 0 0 0
+-
+162.158.155.22
+0 1 1 841 0 0 0 0
+-
+162.158.166.21
+0 1 1 5117 0 0 0 0
+-
+172.68.146.52
+0 36 27 2651292 1 1594183648 0 0
+/role/permission/2
+162.158.159.112
+0 21 5 404328 0 0 0 0
+-
+162.158.158.233
+0 1 1 22377 0 0 0 0
+-
+172.69.135.180
+0 17 17 2537419 0 0 0 0
+-
+162.158.166.53
+0 15 15 51247 0 0 0 0
+-
+162.158.159.84
+0 46 36 145501 7 1595074775 0 0
+/authentication
+188.114.102.10
+0 4 2 15641 1 1594123200 0 0
+/event/get_events_list
+162.158.158.223
+0 1 1 54347 0 0 0 0
+-
+162.158.50.252
+0 1 1 5129 0 0 0 0
+-
+162.158.23.77
+0 9 9 214442 0 0 0 0
+-
+162.158.23.49
+0 9 9 66496 0 0 0 0
+-
+162.158.165.70
+0 2 2 10234 0 0 0 0
+-
+162.158.159.128
+0 21 21 133369 0 0 0 0
+-
+188.114.103.219
+0 3 3 10421 0 0 0 0
+-
+141.101.98.98
+0 61 50 311346 5 1594259464 0 0
+/fees/payment_history
+162.158.165.64
+0 81 79 596396 11 1595059702 0 0
+/fees/invoice/2
+172.69.134.101
+0 21 20 104034 1 1594377457 0 0
+/student/view
+162.158.50.234
+0 8 8 92342 0 0 0 0
+-
+162.158.166.241
+0 103 96 1529471 12 1595041043 0 0
+/fees/invoice/1
+162.158.166.83
+0 18 18 75691 1 1594698563 0 0
+/authentication
+162.158.166.157
+0 50 50 307019 0 0 0 0
+-
+162.158.167.22
+0 1 1 5098 0 0 0 0
+-
+162.158.165.90
+0 31 31 204593 1 1594385952 0 0
+/student/view
+162.158.154.105
+0 19 19 147048 0 0 0 0
+-
+162.158.159.108
+0 16 12 26061 0 0 0 0
+-
+162.158.22.162
+0 2 2 4361 0 0 0 0
+-
+172.69.135.120
+0 1 1 5117 0 0 0 0
+-
+162.158.165.116
+0 27 27 222579 2 1594385476 0 0
+/subject/class_assign
+162.158.165.74
+0 10 10 28244 0 0 0 0
+-
+172.69.134.71
+0 61 49 487389 2 1594295582 0 0
+/library/book_manage
+162.158.167.164
+0 29 29 86809 1 1594296872 0 0
+/phpmyadmin/
+162.158.158.127
+0 3 3 7075 0 0 0 0
+-
+162.158.165.102
+0 26 26 200200 0 0 0 0
+-
+162.158.166.147
+0 8 8 22319 0 0 0 0
+-
+172.68.146.112
+0 68 58 2941164 0 0 0 0
+-
+162.158.50.206
+0 6 6 16028 0 0 0 0
+-
+172.69.134.221
+0 3 3 15337 0 0 0 0
+-
+162.158.191.186
+0 12 12 141168 0 0 0 0
+-
+162.158.158.173
+0 17 13 33198 0 0 0 0
+-
+162.158.23.55
+0 5 5 64486 0 0 0 0
+-
+162.158.158.123
+0 1 1 5117 0 0 0 0
+-
+172.69.134.65
+0 18 18 100976 1 1594389138 0 0
+/ajax/getStudentByClassForExtraSubject
+172.68.146.148
+0 15 8 54136 0 0 0 0
+-
+162.158.159.48
+0 17 13 27907 0 0 0 0
+-
+162.158.23.97
+0 1 1 3768 0 0 0 0
+-
+162.158.167.50
+0 31 24 275314 0 0 0 0
+-
+162.158.165.192
+0 3 3 41730 0 0 0 0
+-
+172.68.146.82
+0 40 39 233876 0 0 0 0
+-
+172.69.134.53
+0 28 27 97271 0 0 0 0
+-
+172.69.135.54
+0 1 1 5117 0 0 0 0
+-
+162.158.166.159
+0 90 84 575290 13 1595043197 0 0
+/phpmyadmin/
+162.158.167.16
+0 27 27 128232 0 0 0 0
+-
+162.158.165.48
+0 1 1 5117 0 0 0 0
+-
+162.158.23.109
+0 2 2 20327 0 0 0 0
+-
+162.158.191.138
+0 22 22 217912 0 0 0 0
+-
+162.158.165.36
+0 43 21 690037 0 0 0 0
+-
+162.158.158.247
+0 16 11 65542 6 1595002502 0 0
+/fees/invoice/1
+141.101.98.130
+0 29 20 965751 0 0 0 0
+-
+162.158.191.154
+0 34 34 3076161 0 0 0 0
+-
+162.158.159.26
+0 16 16 153996 0 0 0 0
+-
+162.158.167.196
+0 1 1 22377 0 0 0 0
+-
+162.158.155.154
+0 16 16 228472 0 0 0 0
+-
+162.158.158.241
+0 22 22 81996 0 0 0 0
+-
+172.69.135.90
+0 62 58 1357833 1 1594355750 0 0
+/phpmyadmin/
+162.158.22.126
+0 7 7 169707 0 0 0 0
+-
+162.158.165.66
+0 73 55 261862 2 1594380747 0 0
+/classes/teacher_allocation
+162.158.165.46
+0 46 37 439629 0 0 0 0
+-
+162.158.158.97
+0 16 16 531216 0 0 0 0
+-
+172.69.135.12
+0 14 14 173528 0 0 0 0
+-
+162.158.22.102
+0 3 3 10263 0 0 0 0
+-
+162.158.167.8
+0 1 1 5117 0 0 0 0
+-
+162.158.165.20
+0 118 113 716669 13 1595055355 0 0
+/live_class
+162.158.154.63
+0 22 7 485012 0 0 0 0
+-
+141.101.98.122
+0 17 14 127349 0 0 0 0
+-
+141.101.107.80
+0 1 1 5117 0 0 0 0
+-
+162.158.167.182
+0 33 17 83761 2 1594119684 0 0
+/live_class/host
+172.68.146.106
+0 16 16 169680 0 0 0 0
+-
+172.69.135.18
+0 48 44 1802805 0 0 0 0
+-
+162.158.166.133
+0 41 22 196224 0 0 0 0
+-
+162.158.158.231
+0 16 16 41568 0 0 0 0
+-
+162.158.166.87
+0 19 19 91668 0 0 0 0
+-
+162.158.50.212
+0 1 1 81964 0 0 0 0
+-
+162.158.159.18
+0 17 17 504405 0 0 0 0
+-
+162.158.165.212
+0 20 20 646944 0 0 0 0
+-
+162.158.31.142
+0 303 288 3191665 9 1594907628 0 0
+/library/book_manage
+162.158.165.122
+0 2 2 7538 1 1594389129 0 0
+/ajax/getSectionByClass
+162.158.166.215
+0 40 18 357645 1 1594381870 0 0
+/subject/class_assign
+172.69.135.30
+0 1 1 5117 0 0 0 0
+-
+162.158.167.126
+0 3 3 15351 0 0 0 0
+-
+162.158.159.30
+0 14 10 27473 0 0 0 0
+-
+162.158.165.114
+0 18 18 43706 0 0 0 0
+-
+162.158.165.248
+0 85 83 511757 11 1595039784 0 0
+/fees/getTypeByBranch
+162.158.167.148
+0 48 45 573456 0 0 0 0
+-
+162.158.159.58
+0 17 17 8402009 0 0 0 0
+-
+141.101.98.54
+0 1 1 5117 0 0 0 0
+-
+162.158.159.54
+0 45 43 158764 2 1594123173 0 0
+/userrole/livejoin
+162.158.23.89
+0 10 10 35237 2 1594211183 0 0
+/phpmyadmin/ajax.php
+162.158.154.189
+0 38 38 102949 0 0 0 0
+-
+162.158.165.32
+0 27 10 56882 0 0 0 0
+-
+172.69.135.42
+0 46 27 152453 0 0 0 0
+-
+162.158.165.40
+0 2 2 10220 0 0 0 0
+-
+162.158.50.244
+0 2 2 78586 0 0 0 0
+-
+141.101.98.192
+0 20 20 554007 0 0 0 0
+-
+162.158.165.132
+0 4 4 7489 0 0 0 0
+-
+162.158.22.154
+0 19 11 104800 1 1594803302 0 0
+/fees/add_library_fees
+162.158.22.22
+0 1 1 2215 0 0 0 0
+-
+162.158.158.47
+0 17 13 27383 0 0 0 0
+-
+162.158.191.150
+0 32 32 93864 0 0 0 0
+-
+172.68.146.154
+0 13 13 41901 1 1594389349 0 0
+/subject/index
+172.69.135.126
+0 53 50 309771 8 1595040081 0 0
+/fees/type
+172.68.146.136
+0 1 1 22377 0 0 0 0
+-
+172.68.146.184
+0 1 1 5103 0 0 0 0
+-
+162.158.165.82
+0 27 10 56012 1 1594123519 0 0
+/live_class/hostModal
+162.158.23.111
+0 6 6 164240 0 0 0 0
+-
+162.158.165.174
+0 22 22 93961 0 0 0 0
+-
+162.158.165.88
+0 2 2 10220 0 0 0 0
+-
+172.69.134.47
+0 18 18 64990 0 0 0 0
+-
+162.158.31.152
+0 41 31 937815 0 0 0 0
+-
+162.158.166.187
+0 65 46 331788 13 1595158550 0 0
+/authentication
+162.158.165.76
+0 92 85 434520 15 1595174853 0 0
+/student/view
+162.158.23.93
+0 2 2 3900 0 0 0 0
+-
+172.69.135.174
+0 128 107 2024955 13 1595059684 0 0
+/fees/type
+172.69.134.215
+0 32 32 725573 0 0 0 0
+-
+162.158.154.243
+0 1 1 5117 0 0 0 0
+-
+172.69.134.143
+0 2 2 10220 0 0 0 0
+-
+172.69.135.66
+0 29 29 122739 0 0 0 0
+-
+162.158.22.84
+0 1 1 5996 0 0 0 0
+-
+162.158.154.159
+0 11 11 47774 0 0 0 0
+-
+162.158.166.35
+0 16 16 76976 0 0 0 0
+-
+162.158.167.162
+0 39 32 130663 1 1594389271 0 0
+/ajax/getClassByBranch
+162.158.50.214
+0 8 8 49735 0 0 0 0
+-
+141.101.98.22
+0 17 13 27595 0 0 0 0
+-
+172.69.135.224
+0 15 15 170399 0 0 0 0
+-
+162.158.22.120
+0 4 4 159592 0 0 0 0
+-
+172.69.135.232
+0 67 51 231689 9 1595039762 0 0
+/fees/getTypeByBranch
+162.158.155.250
+0 17 17 47997 0 0 0 0
+-
+162.158.23.75
+0 2 2 34881 0 0 0 0
+-
+141.101.98.94
+0 79 72 510707 7 1595037035 0 0
+/event/get_events_list/
+162.158.155.196
+0 10 10 33790 0 0 0 0
+-
+172.69.135.222
+0 5 5 31581 1 1594377559 0 0
+/branch
+162.158.165.56
+0 6 6 33006 0 0 0 0
+-
+162.158.191.190
+0 21 21 665283 0 0 0 0
+-
+162.158.159.62
+0 17 17 7418313 0 0 0 0
+-
+162.158.159.88
+0 31 24 111569 5 1594672194 0 0
+/authentication
+172.69.134.185
+0 15 15 51175 0 0 0 0
+-
+162.158.155.82
+0 1 1 5117 0 0 0 0
+-
+141.101.98.24
+0 53 47 114267 0 0 0 0
+-
+172.69.134.95
+0 25 23 1203006 3 1594387091 0 0
+/ajax/getStudentByClass
+162.158.159.120
+0 16 16 621308 0 0 0 0
+-
+162.158.154.75
+0 16 3 472066 0 0 0 0
+-
+141.101.98.16
+0 1 1 5117 0 0 0 0
+-
+162.158.50.196
+0 5 5 84099 0 0 0 0
+-
+141.101.98.222
+0 1 1 5117 0 0 0 0
+-
+172.69.135.234
+0 4 4 52983 0 0 0 0
+-
+162.158.155.100
+0 16 16 47776 0 0 0 0
+-
+172.68.146.100
+0 1 1 5117 0 0 0 0
+-
+172.69.135.192
+0 77 73 430430 12 1595004015 0 0
+/fees/invoice/2
+162.158.166.109
+0 1 1 5117 0 0 0 0
+-
+162.158.155.148
+0 3 3 15351 0 0 0 0
+-
+162.158.154.147
+0 18 18 128409 0 0 0 0
+-
+172.68.146.190
+0 17 17 96709 0 0 0 0
+-
+162.158.165.232
+0 27 27 233614 0 0 0 0
+-
+162.158.158.103
+0 1 1 5117 0 0 0 0
+-
+162.158.165.150
+0 4 2 21162 1 1594119655 0 0
+/event/get_events_list/
+172.69.134.41
+0 15 14 38880 0 0 0 0
+-
+162.158.23.25
+0 8 8 63397 0 0 0 0
+-
+162.158.166.155
+0 6 6 20690 0 0 0 0
+-
+162.158.22.36
+0 1 1 39293 0 0 0 0
+-
+172.68.146.244
+0 4 4 18776 1 1594118064 0 0
+/live_class/host
+162.158.22.114
+0 1 1 5129 0 0 0 0
+-
+162.158.22.72
+0 8 8 44126 0 0 0 0
+-
+162.158.22.4
+0 1 1 496237 0 0 0 0
+-
+172.69.135.214
+0 2 2 27494 0 0 0 0
+-
+162.158.159.40
+0 15 11 28309 0 0 0 0
+-
+162.158.50.210
+0 2 2 42900 0 0 0 0
+-
+162.158.165.218
+0 6 6 20088 0 0 0 0
+-
+162.158.165.86
+0 9 9 53885 0 0 0 0
+-
+172.69.134.149
+0 43 34 99840 0 0 0 0
+-
+172.69.135.242
+0 26 7 51202 0 0 0 0
+-
+162.158.165.176
+0 117 110 1903534 11 1595041472 0 0
+/fees/getTypeByBranch
+162.158.50.226
+0 2 2 4222 0 0 0 0
+-
+162.158.158.171
+0 16 16 62092 0 0 0 0
+-
+162.158.167.118
+0 21 14 47352 0 0 0 0
+-
+162.158.165.98
+0 20 19 61564 1 1594117924 0 0
+/authentication
+162.158.50.4
+0 11 9 953482 0 0 0 0
+-
+162.158.50.218
+0 6 6 34854 0 0 0 0
+-
+172.69.134.209
+0 32 18 278647 0 0 0 0
+-
+162.158.166.135
+0 41 41 11098053 1 1593942383 0 0
+/authentication
+162.158.166.253
+0 15 7 35067 0 0 0 0
+-
+162.158.23.105
+0 2 2 13937 0 0 0 0
+-
+162.158.31.158
+0 135 111 930547 11 1595158551 0 0
+/ajax/getSectionByClass
+162.158.155.178
+0 17 17 133033 0 0 0 0
+-
+162.158.159.42
+0 22 22 497986 0 0 0 0
+-
+162.158.159.90
+0 1 1 5117 0 0 0 0
+-
+162.158.166.119
+0 10 8 57725 1 1594184404 0 0
+/live_class
+172.69.134.161
+0 5 5 16531 0 0 0 0
+-
+141.101.98.20
+0 14 12 25717 0 0 0 0
+-
+162.158.166.17
+0 27 27 78320 0 0 0 0
+-
+172.69.134.173
+0 20 20 53902 1 1594183567 0 0
+/live_class/hostModal
+162.158.166.141
+0 1 1 5117 0 0 0 0
+-
+162.158.165.184
+0 4 4 1978144 0 0 0 0
+-
+162.158.159.34
+0 16 16 80812 0 0 0 0
+-
+162.158.165.92
+0 1 1 5117 0 0 0 0
+-
+162.158.167.160
+0 28 26 1530909 0 0 0 0
+-
+162.158.191.172
+0 23 23 451486 0 0 0 0
+-
+172.69.135.78
+0 22 20 52269 1 1594293840 0 0
+/event/get_events_list
+162.158.166.123
+0 1 1 5117 0 0 0 0
+-
+172.69.135.186
+0 16 16 421400 0 0 0 0
+-
+162.158.167.194
+0 54 54 204184 0 0 0 0
+-
+162.158.167.104
+0 28 28 268258 0 0 0 0
+-
+162.158.50.216
+0 4 4 11232 0 0 0 0
+-
+162.158.165.168
+0 2 2 261802 0 0 0 0
+-
+162.158.166.217
+0 13 13 99511 2 1594389263 0 0
+/subject/class_assign
+162.158.158.237
+0 26 21 216289 8 1595003183 0 0
+/fees/invoice/2
+162.158.167.184
+0 28 28 124757 0 0 0 0
+-
+162.158.31.154
+0 51 50 1194261 0 0 0 0
+-
+172.69.135.208
+0 27 27 90403 0 0 0 0
+-
+162.158.155.214
+0 17 17 72547 0 0 0 0
+-
+162.158.22.62
+0 1 1 2290 0 0 0 0
+-
+172.69.134.203
+0 32 32 398254 0 0 0 0
+-
+162.158.23.87
+0 1 1 651 0 0 0 0
+-
+172.69.135.132
+0 18 18 101066 0 0 0 0
+-
+141.101.107.58
+0 23 20 155043 5 1594385380 0 0
+/ajax/getSectionByClass
+162.158.191.132
+0 37 37 575777 0 0 0 0
+-
+162.158.165.52
+0 152 146 874443 9 1595041761 0 0
+/phpmyadmin/
+162.158.158.201
+0 8 8 288199 0 0 0 0
+-
+188.114.103.181
+0 3 2 13491 1 1594122999 0 0
+/event/get_events_list
+162.158.31.138
+0 131 119 1163892 4 1594359931 0 0
+/event/get_events_list/
+172.69.135.24
+0 18 18 154615 1 1594389380 0 0
+/ajax/getClassByBranch
+162.158.165.198
+0 29 28 197786 11 1595059658 0 0
+/fees/type
+162.158.159.116
+0 14 10 25159 0 0 0 0
+-
+162.158.22.44
+0 1 1 2118 0 0 0 0
+-
+141.101.99.149
+0 19 15 1407803 0 0 0 0
+-
+172.69.134.179
+0 1 1 5103 0 0 0 0
+-
+172.68.146.220
+0 1 1 5103 0 0 0 0
+-
+162.158.155.34
+0 16 16 53488 0 0 0 0
+-
+162.158.165.68
+0 27 27 94806 1 1594120064 0 0
+/live_class/
+162.158.191.146
+0 23 23 698068 0 0 0 0
+-
+162.158.23.83
+0 1 1 37448 0 0 0 0
+-
+172.69.135.212
+0 41 41 10578713 0 0 0 0
+-
+162.158.165.108
+0 38 38 453907 2 1594387331 0 0
+/subject/class_assign
+162.158.191.188
+0 13 13 596373 0 0 0 0
+-
+162.158.191.162
+0 175 167 1206460 8 1595157531 0 0
+/authentication
+162.158.167.146
+0 1 1 5117 0 0 0 0
+-
+162.158.23.7
+0 10 8 152546 2 1594211177 0 0
+/phpmyadmin/
+162.158.165.236
+0 166 147 920443 15 1595041748 0 0
+/phpmyadmin/db_structure.php
+172.69.135.198
+0 15 7 34843 0 0 0 0
+-
+162.158.158.245
+0 16 16 39600 0 0 0 0
+-
+188.114.103.241
+0 4 4 16924 1 1594123110 0 0
+/userrole/livejoin
+172.68.146.196
+0 16 16 69760 0 0 0 0
+-
+162.158.158.131
+0 39 39 627796 0 0 0 0
+-
+162.158.167.156
+0 26 26 118410 0 0 0 0
+-
+172.69.134.17
+0 84 79 449444 12 1595040233 0 0
+/fees/type
+172.68.146.142
+0 97 77 542875 13 1595042769 0 0
+/fees/getTypeByBranch
+162.158.155.130
+0 21 13 201139 0 0 0 0
+-
+162.158.158.229
+0 27 22 118286 7 1594602816 0 0
+/ajax/getStudentByClassForExtraSubject
+172.69.134.11
+0 10 10 35809 1 1594183550 0 0
+/communication/mailbox/inbox
+162.158.165.38
+0 10 4 26271 1 1593942347 0 0
+/authentication
+162.158.165.30
+0 27 27 678401 0 0 0 0
+-
+162.158.165.130
+0 1 1 7009 0 0 0 0
+-
+162.158.167.166
+0 20 20 252284 0 0 0 0
+-
+172.69.135.238
+0 369 283 2058938 11 1595161081 0 0
+/student/view
+162.158.191.140
+0 62 58 334223 4 1594904169 0 0
+/library/book_manage
+162.158.165.18
+0 1 1 5117 0 0 0 0
+-
+162.158.166.117
+0 8 8 17744 0 0 0 0
+-
+162.158.158.175
+0 14 14 62097 0 0 0 0
+-
+162.158.158.227
+0 2 2 31242 0 0 0 0
+-
+162.158.165.8
+0 1 1 5103 0 0 0 0
+-
+162.158.165.120
+0 72 69 294668 1 1594118278 0 0
+/live_class
+162.158.50.242
+0 5 5 115215 0 0 0 0
+-
+162.158.167.116
+0 17 17 140857 0 0 0 0
+-
+162.158.165.204
+0 2 2 89166 0 0 0 0
+-
+172.69.134.89
+0 5 5 77301 0 0 0 0
+-
+162.158.154.213
+0 5 5 18175 0 0 0 0
+-
+162.158.23.85
+0 2 2 312083 0 0 0 0
+-
+172.69.135.226
+0 15 7 32173 0 0 0 0
+-
+188.114.102.8
+0 2 2 10227 2 1594457326 0 0
+/library/bookIssued
+162.158.167.106
+0 43 42 1044753 2 1594383325 0 0
+/subject/class_assign
+162.158.23.37
+0 7 7 41477 0 0 0 0
+-
+162.158.165.244
+0 3 3 15337 0 0 0 0
+-
+162.158.107.69
+0 1 0 360 1 1593739077 0 0
+-
+172.69.135.216
+0 1 1 5117 0 0 0 0
+-
+162.158.22.228
+0 5 5 12279 0 0 0 0
+-
+172.69.134.167
+0 69 60 273124 10 1595127355 0 0
+/fees/invoice/2
+162.158.22.34
+0 1 1 2334 0 0 0 0
+-
+162.158.50.238
+0 24 24 257170 2 1595037712 0 0
+/ajax/getStudentByClass
+162.158.23.79
+0 3 3 84440 0 0 0 0
+-
+162.158.154.87
+0 9 6 30530 0 0 0 0
+-
+162.158.158.155
+0 1 1 5117 0 0 0 0
+-
+162.158.154.177
+0 1 1 5117 0 0 0 0
+-
+141.101.98.82
+0 16 16 409380 0 0 0 0
+-
+172.69.134.191
+0 17 17 150977 0 0 0 0
+-
+172.69.134.197
+0 1 1 5117 0 0 0 0
+-
+162.158.165.24
+0 267 219 3810292 12 1595042795 0 0
+/fees/getTypeByBranch
+162.158.22.252
+0 4 4 29659 0 0 0 0
+-
+162.158.165.84
+0 35 35 454457 0 0 0 0
+-
+172.68.146.208
+0 2 2 10220 0 0 0 0
+-
+162.158.22.42
+0 2 2 11535 0 0 0 0
+-
+162.158.155.76
+0 22 22 1778088 0 0 0 0
+-
+172.69.135.36
+0 2 2 10206 0 0 0 0
+-
+172.68.146.76
+0 40 23 1875170 0 0 0 0
+-
+172.69.134.35
+0 3 3 10043 0 0 0 0
+-
+162.158.154.201
+0 37 22 666604 0 0 0 0
+-
+172.68.146.238
+0 1 1 22377 0 0 0 0
+-
+162.158.191.166
+0 10 10 558778 0 0 0 0
+-
+162.158.158.191
+0 17 17 48909 0 0 0 0
+-
+172.69.135.210
+0 83 64 205514 0 0 0 0
+-
+162.158.191.170
+0 12 10 206077 0 0 0 0
+-
+172.69.134.83
+0 33 24 91414 2 1594212842 0 0
+/phpmyadmin/
+162.158.159.14
+0 74 61 426728 14 1595169886 0 0
+/event/get_events_list/
+162.158.78.104
+0 1 0 302 1 1593739080 0 0
+-
+162.158.159.28
+0 22 22 301332 0 0 0 0
+-
+162.158.166.103
+0 29 29 92681 0 0 0 0
+-
+172.69.135.162
+0 62 30 497020 0 0 0 0
+-
+172.69.134.251
+0 3 2 11280 1 1594295636 0 0
+/authentication
+162.158.166.143
+0 40 32 499749 0 0 0 0
+-
+162.158.31.168
+0 41 37 258136 0 0 0 0
+-
+188.114.102.14
+0 4 3 11839 1 1594123013 0 0
+/userrole/livejoin
+162.158.165.58
+0 3 3 26759 0 0 0 0
+-
+162.158.154.33
+0 1 1 5117 0 0 0 0
+-
+162.158.165.190
+0 1 1 2396 0 0 0 0
+-
+141.101.99.151
+0 22 16 313236 0 0 0 0
+-
+172.68.146.232
+0 4 4 35772 0 0 0 0
+-
+172.69.62.208
+0 1 0 388 1 1593739079 0 0
+-
+162.158.22.26
+0 2 2 4300 0 0 0 0
+-
+162.158.22.240
+0 4 4 7821 0 0 0 0
+-
+162.158.22.54
+0 4 4 17972 0 0 0 0
+-
+162.158.165.22
+0 72 71 351365 9 1595059645 0 0
+/authentication
+162.158.158.107
+0 1 1 5117 0 0 0 0
+-
+162.158.165.200
+0 73 54 531720 0 0 0 0
+-
+162.158.22.12
+0 1 1 5474 0 0 0 0
+-
+162.158.23.95
+0 2 2 2707 0 0 0 0
+-
+162.158.165.26
+0 27 18 59753 1 1594122457 0 0
+/live_class/host
+162.158.22.18
+0 3 3 25760 0 0 0 0
+-
+162.158.158.189
+0 9 9 91164 0 0 0 0
+-
+162.158.166.113
+0 11 11 27533 0 0 0 0
+-
+162.158.22.90
+0 2 2 16611 0 0 0 0
+-
+141.101.98.128
+0 16 16 230936 0 0 0 0
+-
+162.158.165.72
+0 21 21 131096 1 1594387055 0 0
+/ajax/getSectionByClass
+162.158.166.37
+0 10 10 28826 0 0 0 0
+-
+162.158.166.85
+0 1 1 5117 0 0 0 0
+-
+162.158.22.234
+0 4 4 35273 0 0 0 0
+-
+162.158.22.96
+0 4 3 53732 0 0 0 0
+-
+141.101.98.96
+0 5 5 30922 0 0 0 0
+-
+162.158.50.250
+0 12 12 376450 0 0 0 0
+-
+162.158.159.126
+0 32 26 252506 0 0 0 0
+-
+162.158.155.52
+0 23 9 109753 0 0 0 0
+-
+162.158.191.174
+0 25 25 73776 0 0 0 0
+-
+162.158.23.19
+0 7 7 674547 0 0 0 0
+-
+162.158.23.81
+0 8 8 292396 0 0 0 0
+-
+162.158.191.164
+0 112 102 3450762 5 1594635540 0 0
+/library/category
+162.158.159.74
+0 121 105 743238 8 1595088716 0 0
+/fees/payment_history
+162.158.166.163
+0 247 212 1462283 10 1595131934 0 0
+/phpmyadmin/navigation.php
+162.158.167.130
+0 2 2 10220 0 0 0 0
+-
+162.158.159.8
+0 1 1 5117 0 0 0 0
+-
+162.158.154.237
+0 1 1 5117 0 0 0 0
+-
+162.158.167.66
+0 25 25 978635 0 0 0 0
+-
+172.69.134.227
+0 15 15 42245 0 0 0 0
+-
+162.158.165.118
+0 23 6 45720 0 0 0 0
+-
+162.158.159.132
+0 44 34 658304 0 0 0 0
+-
+172.68.146.202
+0 14 13 33976 0 0 0 0
+-
+162.158.166.139
+0 2 2 27494 0 0 0 0
+-
+162.158.166.131
+0 32 32 105924 0 0 0 0
+-
+162.158.22.150
+0 3 3 28647 0 0 0 0
+-
+162.158.166.115
+0 2 2 10220 0 0 0 0
+-
+162.158.31.132
+0 77 66 285525 0 0 0 0
+-
+162.158.23.43
+0 6 6 28024 0 0 0 0
+-
+162.158.50.200
+0 3 3 6606 0 0 0 0
+-
+172.68.146.64
+0 25 25 753309 0 0 0 0
+-
+162.158.50.228
+0 10 10 43777 0 0 0 0
+-
+172.69.134.125
+0 1 1 742 1 1594183468 0 0
+/ajax/getExamByBranch
+162.158.23.67
+0 8 8 39255 0 0 0 0
+-
+162.158.167.14
+0 34 34 120839 0 0 0 0
+-
+162.158.191.168
+0 46 41 293762 1 1594126193 0 0
+/dashboard
+162.158.166.251
+0 2 2 27494 0 0 0 0
+-
+162.158.166.161
+0 40 29 220594 2 1594380052 0 0
+/subject/class_assign
+162.158.159.134
+0 1 1 43646 0 0 0 0
+-
+162.158.166.185
+0 1 1 5117 0 0 0 0
+-
+172.69.135.220
+0 2 2 10234 0 0 0 0
+-
+162.158.165.12
+0 4 4 9798 1 1594385781 0 0
+/ajax/getDataByBranch
+162.158.154.111
+0 17 5 24113 0 0 0 0
+-
+141.101.98.56
+0 1 1 5117 0 0 0 0
+-
+162.158.154.39
+0 72 69 420359 2 1594888874 0 0
+/ajax/getStudentByClassForExtraSubject
+162.158.22.20
+0 3 3 62780 0 0 0 0
+-
+162.158.167.140
+0 58 52 390872 14 1595059694 0 0
+/fees/fine_setup
+162.158.31.166
+0 91 90 2378184 0 0 0 0
+-
+162.158.158.221
+0 16 12 25869 0 0 0 0
+-
+162.158.23.71
+0 2 2 32292 0 0 0 0
+-
+141.101.98.220
+0 1 1 5117 0 0 0 0
+-
+162.158.158.71
+0 1 1 3107 0 0 0 0
+-
+172.69.134.137
+0 34 33 309127 0 0 0 0
+-
+162.158.158.185
+0 16 16 47536 0 0 0 0
+-
+162.158.23.31
+0 5 5 873805 0 0 0 0
+-
+172.69.135.108
+0 2 2 10215 0 0 0 0
+-
+162.158.23.113
+0 6 6 6931 0 0 0 0
+-
+172.69.135.102
+0 1 1 5117 0 0 0 0
+-
+172.68.146.160
+0 5 5 35084 0 0 0 0
+-
+162.158.31.146
+0 141 120 4178667 7 1595047989 0 0
+/communication/mailbox/inbox
+162.158.165.202
+0 1 1 22377 0 0 0 0
+-
+172.68.146.118
+0 32 15 73116 1 1594120034 0 0
+/live_class/host
+162.158.31.164
+0 76 67 2345539 0 0 0 0
+-
+162.158.166.107
+0 27 17 65283 0 0 0 0
+-
+172.69.134.23
+0 1 1 5117 0 0 0 0
+-
+162.158.159.92
+0 18 18 554198 0 0 0 0
+-
+162.158.50.236
+0 15 15 77690 0 0 0 0
+-
+162.158.166.19
+0 5 5 43043 2 1594387267 0 0
+/subject/class_assign
+172.69.134.233
+0 40 38 873344 1 1594123622 0 0
+/live_class/host
+172.68.146.94
+0 2 2 10234 0 0 0 0
+-
+162.158.155.16
+0 34 21 62017 0 0 0 0
+-
+162.158.23.91
+0 5 5 262115 0 0 0 0
+-
+162.158.22.24
+0 1 0 1815 0 0 0 0
+-
+162.158.165.62
+0 15 7 34533 0 0 0 0
+-
+162.158.165.78
+0 33 33 193821 0 0 0 0
+-
+162.158.22.30
+0 6 6 129355 0 0 0 0
+-
+162.158.165.226
+0 1 1 2650 0 0 0 0
+-
+162.158.167.18
+0 3 3 7770 0 0 0 0
+-
+162.158.165.14
+0 8 8 120051 0 0 0 0
+-
+162.158.191.184
+0 29 29 486995 0 0 0 0
+-
+172.68.146.250
+0 2 2 10206 0 0 0 0
+-
+162.158.158.105
+0 16 16 80668 0 0 0 0
+-
+162.158.167.52
+0 5 5 13375 0 0 0 0
+-
+162.158.165.44
+0 1 1 5117 0 0 0 0
+-
+162.158.50.220
+0 9 9 29939 0 0 0 0
+-
+162.158.165.96
+0 59 58 311335 11 1595040196 0 0
+/fees/getTypeByBranch
+162.158.158.5
+0 23 23 132609 0 0 0 0
+-
+162.158.50.248
+0 17 17 109862 2 1595037958 0 0
+/ajax/getClassByBranch
+162.158.167.10
+0 2 2 10234 0 0 0 0
+-
+162.158.165.196
+0 2 2 27475 0 0 0 0
+-
+172.69.135.230
+0 56 55 1846799 0 0 0 0
+-
+141.101.99.63
+0 1 1 5117 0 0 0 0
+-
+162.158.158.209
+0 13 9 72214 0 0 0 0
+-
+162.158.167.128
+0 3 3 32430 2 1594389407 0 0
+/student/profile/1
+141.101.98.52
+0 1 1 5117 0 0 0 0
+-
+162.158.191.156
+0 14 14 802981 0 0 0 0
+-
+172.68.146.88
+0 6 6 39194 0 0 0 0
+-
+162.158.167.158
+0 1 1 10886 1 1594375880 0 0
+/fees/payment_history
+172.68.146.214
+0 93 92 601398 11 1595038940 0 0
+/ajax/getClassByBranch
+172.69.135.96
+0 3 3 6472 2 1594119627 0 0
+/authentication
+162.158.165.6
+0 27 27 143626 0 0 0 0
+-
+162.158.165.104
+0 33 24 73615 0 0 0 0
+-
+162.158.191.158
+0 32 32 378148 0 0 0 0
+-
+162.158.23.103
+0 3 3 59213 0 0 0 0
+-
+162.158.167.68
+0 56 36 247295 11 1595040801 0 0
+/fees/invoice/1
+172.69.134.77
+0 30 30 2220829 0 0 0 0
+-
+172.69.134.29
+0 22 21 141058 1 1594380031 0 0
+/subject/class_assign
+162.158.158.253
+0 21 5 113280 0 0 0 0
+-
+162.158.167.48
+0 43 35 193735 7 1595041368 0 0
+/fees/getTypeByBranch
+172.69.135.114
+0 14 7 33331 0 0 0 0
+-
+162.158.31.160
+0 26 24 97350 0 0 0 0
+-
+162.158.158.213
+0 2 2 10234 0 0 0 0
+-
+162.158.31.162
+0 42 42 461748 0 0 0 0
+-
+162.158.165.54
+0 18 18 751760 0 0 0 0
+-
+162.158.167.192
+0 1 1 5117 0 0 0 0
+-
+172.69.134.245
+0 33 32 151201 0 0 0 0
+-
+162.158.167.20
+0 4 4 12510 1 1594122576 0 0
+/live_class/host
+162.158.158.243
+0 6 6 199755 0 0 0 0
+-
+162.158.50.246
+0 6 6 78926 0 0 0 0
+-
+162.158.158.163
+0 15 15 1951263 0 0 0 0
+-
+162.158.165.60
+0 19 19 89801 0 0 0 0
+-
+162.158.31.140
+0 12 12 295433 0 0 0 0
+-
+162.158.158.157
+0 17 13 27725 0 0 0 0
+-
+162.158.22.210
+0 36 34 256601 4 1594211183 0 0
+/phpmyadmin/version_check.php
+162.158.159.4
+0 16 16 788534 0 0 0 0
+-
+172.69.134.119
+0 28 27 386219 2 1594122733 0 0
+/live_class/
+162.158.165.34
+0 146 139 730189 14 1595040095 0 0
+/fees/type
+141.101.99.153
+0 16 12 26013 0 0 0 0
+-
+162.158.23.13
+0 7 7 54886 0 0 0 0
+-
+172.69.135.228
+0 26 17 54396 0 0 0 0
+-
+162.158.154.165
+0 22 22 346454 0 0 0 0
+-
+162.158.165.206
+0 37 36 172770 9 1595004184 0 0
+/phpmyadmin/
+172.69.134.155
+0 2 2 10234 0 0 0 0
+-
+162.158.155.202
+0 2 2 10234 0 0 0 0
+-
+162.158.167.138
+0 1 1 22377 0 0 0 0
+-
+162.158.159.82
+0 75 62 381161 8 1595036789 0 0
+/fees/invoice_list
+162.158.22.8
+0 1 1 2415 0 0 0 0
+-
+162.158.22.108
+0 8 8 110077 0 0 0 0
+-
+162.158.159.96
+0 18 17 125217 3 1595036743 0 0
+/fees/invoice/1
+141.101.107.156
+0 15 15 138899 0 0 0 0
+-
+162.158.158.159
+0 17 5 24005 0 0 0 0
+-
+162.158.165.10
+0 1 1 5103 0 0 0 0
+-
+162.158.165.194
+0 2 1 6036 1 1594184079 0 0
+/authentication
+162.158.50.204
+0 4 4 73356 0 0 0 0
+-
+162.158.158.239
+0 38 38 216346 0 0 0 0
+-
+162.158.165.246
+0 3 3 32611 0 0 0 0
+-
+162.158.23.107
+0 4 4 30220 0 0 0 0
+-
+162.158.165.100
+0 1 1 5103 0 0 0 0
+-
+162.158.165.156
+0 1 1 11851 0 0 0 0
+-
+162.158.50.230
+0 12 12 335435 0 0 0 0
+-
+162.158.166.55
+0 2 2 10220 0 0 0 0
+-
+162.158.166.111
+0 42 25 104409 0 0 0 0
+-
+162.158.22.82
+0 2 2 6619 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+162.158.191.148
+0 8 8 58666 0 0 0 0
+-
+162.158.165.4
+0 6 3 14385 0 0 0 0
+-
+162.158.166.121
+0 4 4 288026 0 0 0 0
+-
+162.158.165.210
+0 3 3 106251 0 0 0 0
+-
+141.101.99.83
+0 1 1 17025 0 0 0 0
+-
+141.101.98.10
+0 1 1 4225 0 0 0 0
+-
+162.158.191.136
+0 3 3 56077 0 0 0 0
+-
+162.158.167.6
+0 3 3 8658 0 0 0 0
+-
+162.158.158.77
+0 1 1 157573 0 0 0 0
+-
+162.158.167.180
+0 14 14 48162 0 0 0 0
+-
+162.158.31.150
+0 5 5 508729 0 0 0 0
+-
+162.158.155.58
+0 1 1 3009 0 0 0 0
+-
+172.69.135.150
+0 6 3 103959 0 0 0 0
+-
+172.68.146.226
+0 1 1 5117 0 0 0 0
+-
+162.158.167.102
+0 6 2 12086 0 0 0 0
+-
+162.158.191.152
+0 2 2 165334 0 0 0 0
+-
+162.158.167.144
+0 3 3 32611 0 0 0 0
+-
+162.158.159.36
+0 1 1 2886 0 0 0 0
+-
+162.158.166.145
+0 2 2 5438 0 0 0 0
+-
+172.69.134.113
+0 6 6 17814 0 0 0 0
+-
+172.68.146.52
+0 4 4 460433 0 0 0 0
+-
+162.158.159.112
+0 1 0 1816 0 0 0 0
+-
+172.69.135.180
+0 3 3 472719 0 0 0 0
+-
+162.158.166.53
+0 2 2 6590 0 0 0 0
+-
+162.158.159.84
+0 1 1 2792 0 0 0 0
+-
+162.158.165.70
+0 1 1 5117 0 0 0 0
+-
+162.158.159.128
+0 1 1 4515 0 0 0 0
+-
+141.101.98.98
+0 1 1 2111 0 0 0 0
+-
+162.158.165.64
+0 3 3 25002 0 0 0 0
+-
+162.158.166.157
+0 5 5 34605 0 0 0 0
+-
+162.158.165.90
+0 3 3 19743 0 0 0 0
+-
+162.158.154.105
+0 1 1 8054 0 0 0 0
+-
+162.158.159.108
+0 1 1 2122 0 0 0 0
+-
+172.69.135.120
+0 1 1 5117 0 0 0 0
+-
+162.158.165.116
+0 3 3 24162 0 0 0 0
+-
+162.158.165.74
+0 1 1 5117 0 0 0 0
+-
+162.158.167.164
+0 3 3 8700 0 0 0 0
+-
+162.158.165.102
+0 3 3 23499 0 0 0 0
+-
+162.158.166.147
+0 2 2 4918 0 0 0 0
+-
+172.68.146.112
+0 8 8 364127 0 0 0 0
+-
+162.158.191.186
+0 3 3 41148 0 0 0 0
+-
+162.158.158.173
+0 1 1 2290 0 0 0 0
+-
+162.158.158.123
+0 1 1 5117 0 0 0 0
+-
+172.69.134.65
+0 2 2 11648 0 0 0 0
+-
+172.68.146.148
+0 1 0 1814 0 0 0 0
+-
+162.158.159.48
+0 1 1 2229 0 0 0 0
+-
+162.158.167.50
+0 3 2 30927 0 0 0 0
+-
+172.68.146.82
+0 4 4 25744 0 0 0 0
+-
+172.69.134.53
+0 4 4 13978 0 0 0 0
+-
+162.158.167.16
+0 3 3 14328 0 0 0 0
+-
+162.158.191.138
+0 4 4 42936 0 0 0 0
+-
+162.158.165.36
+0 4 1 8009 0 0 0 0
+-
+141.101.98.130
+0 2 2 96656 0 0 0 0
+-
+162.158.191.154
+0 7 7 681901 0 0 0 0
+-
+162.158.159.26
+0 1 1 10057 0 0 0 0
+-
+162.158.155.154
+0 1 1 14719 0 0 0 0
+-
+162.158.158.241
+0 1 1 4513 0 0 0 0
+-
+172.69.135.90
+0 9 9 170322 0 0 0 0
+-
+162.158.165.66
+0 8 5 24560 0 0 0 0
+-
+162.158.165.46
+0 6 6 53593 0 0 0 0
+-
+162.158.158.97
+0 1 1 33655 0 0 0 0
+-
+172.69.135.12
+0 2 2 18726 0 0 0 0
+-
+162.158.154.63
+0 1 0 1816 0 0 0 0
+-
+141.101.98.122
+0 1 1 10788 0 0 0 0
+-
+162.158.167.182
+0 4 1 10557 0 0 0 0
+-
+172.68.146.106
+0 2 2 21210 0 0 0 0
+-
+172.69.135.18
+0 5 5 210282 0 0 0 0
+-
+162.158.166.133
+0 5 2 10147 0 0 0 0
+-
+162.158.158.231
+0 1 1 3023 0 0 0 0
+-
+162.158.166.87
+0 3 3 14659 0 0 0 0
+-
+162.158.159.18
+0 1 1 30205 0 0 0 0
+-
+162.158.165.212
+0 2 2 65676 0 0 0 0
+-
+162.158.31.142
+0 3 3 22762 0 0 0 0
+-
+162.158.166.215
+0 3 0 5439 0 0 0 0
+-
+172.69.135.30
+0 1 1 5117 0 0 0 0
+-
+162.158.159.30
+0 1 1 2353 0 0 0 0
+-
+162.158.165.114
+0 2 2 4188 0 0 0 0
+-
+162.158.165.248
+0 4 4 19100 0 0 0 0
+-
+162.158.167.148
+0 7 7 82175 0 0 0 0
+-
+162.158.159.58
+0 1 1 496237 0 0 0 0
+-
+162.158.159.54
+0 2 2 8098 0 0 0 0
+-
+162.158.154.189
+0 1 1 3431 0 0 0 0
+-
+162.158.165.32
+0 4 1 10556 0 0 0 0
+-
+172.69.135.42
+0 5 2 14681 0 0 0 0
+-
+162.158.165.40
+0 1 1 5117 0 0 0 0
+-
+141.101.98.192
+0 2 2 42446 0 0 0 0
+-
+162.158.158.47
+0 1 1 2189 0 0 0 0
+-
+162.158.191.150
+0 6 6 16713 0 0 0 0
+-
+162.158.165.82
+0 3 0 5442 0 0 0 0
+-
+162.158.165.174
+0 3 3 12939 0 0 0 0
+-
+172.69.134.47
+0 1 1 3311 0 0 0 0
+-
+162.158.31.152
+0 5 5 193710 0 0 0 0
+-
+162.158.166.187
+0 2 1 6033 1 1595158550 0 0
+/authentication
+162.158.165.76
+0 11 8 55357 1 1595174853 0 0
+/student/view
+172.69.135.174
+0 3 3 234378 0 0 0 0
+-
+172.69.134.215
+0 3 3 70344 0 0 0 0
+-
+162.158.154.243
+0 1 1 5117 0 0 0 0
+-
+172.69.134.143
+0 1 1 5117 0 0 0 0
+-
+172.69.135.66
+0 3 3 13080 0 0 0 0
+-
+162.158.154.159
+0 1 1 5129 0 0 0 0
+-
+162.158.167.162
+0 1 0 1813 0 0 0 0
+-
+162.158.166.35
+0 2 2 9622 0 0 0 0
+-
+141.101.98.22
+0 1 1 2205 0 0 0 0
+-
+172.69.135.224
+0 2 2 21146 0 0 0 0
+-
+172.69.135.232
+0 3 0 5442 0 0 0 0
+-
+162.158.155.250
+0 1 1 3105 0 0 0 0
+-
+162.158.155.196
+0 1 1 4059 0 0 0 0
+-
+172.69.135.222
+0 1 1 5117 0 0 0 0
+-
+162.158.191.190
+0 5 5 124113 0 0 0 0
+-
+162.158.159.62
+0 1 1 438219 0 0 0 0
+-
+172.69.134.185
+0 2 2 4114 0 0 0 0
+-
+162.158.155.82
+0 1 1 5117 0 0 0 0
+-
+141.101.98.24
+0 3 3 6958 0 0 0 0
+-
+162.158.159.120
+0 1 1 39293 0 0 0 0
+-
+162.158.154.75
+0 1 0 1816 0 0 0 0
+-
+141.101.98.16
+0 1 1 5117 0 0 0 0
+-
+162.158.155.100
+0 1 1 3411 0 0 0 0
+-
+172.68.146.100
+0 1 1 5117 0 0 0 0
+-
+162.158.166.109
+0 1 1 5117 0 0 0 0
+-
+162.158.154.147
+0 1 1 7761 0 0 0 0
+-
+172.68.146.190
+0 1 1 5765 0 0 0 0
+-
+162.158.165.232
+0 3 3 24972 0 0 0 0
+-
+172.69.134.41
+0 2 2 4918 0 0 0 0
+-
+172.68.146.244
+0 1 1 5117 0 0 0 0
+-
+172.69.135.214
+0 1 1 5117 0 0 0 0
+-
+162.158.159.40
+0 1 1 2367 0 0 0 0
+-
+172.69.134.149
+0 5 5 11485 0 0 0 0
+-
+172.69.135.242
+0 3 0 5442 0 0 0 0
+-
+162.158.165.176
+0 6 6 54633 0 0 0 0
+-
+162.158.158.171
+0 1 1 4313 0 0 0 0
+-
+162.158.167.118
+0 1 0 1814 0 0 0 0
+-
+162.158.165.98
+0 3 3 10965 0 0 0 0
+-
+172.69.134.209
+0 3 3 46503 0 0 0 0
+-
+162.158.166.135
+0 4 4 1324435 0 0 0 0
+-
+162.158.166.253
+0 2 0 3628 0 0 0 0
+-
+162.158.31.158
+0 22 21 178107 1 1595158551 0 0
+/ajax/getSectionByClass
+162.158.155.178
+0 1 1 8334 0 0 0 0
+-
+162.158.159.42
+0 1 1 23448 0 0 0 0
+-
+141.101.98.20
+0 1 1 2117 0 0 0 0
+-
+162.158.166.17
+0 4 4 13493 0 0 0 0
+-
+172.69.134.173
+0 3 3 9797 0 0 0 0
+-
+162.158.159.34
+0 1 1 5483 0 0 0 0
+-
+162.158.167.160
+0 2 2 188606 0 0 0 0
+-
+162.158.191.172
+0 4 4 78660 0 0 0 0
+-
+172.69.135.78
+0 1 1 2048 0 0 0 0
+-
+172.69.135.186
+0 2 2 44754 0 0 0 0
+-
+162.158.167.194
+0 6 6 23979 0 0 0 0
+-
+162.158.167.104
+0 3 3 30171 0 0 0 0
+-
+162.158.166.217
+0 1 1 5117 0 0 0 0
+-
+162.158.167.184
+0 4 4 18662 0 0 0 0
+-
+162.158.31.154
+0 5 5 47326 0 0 0 0
+-
+172.69.135.208
+0 3 3 10233 0 0 0 0
+-
+162.158.155.214
+0 1 1 4776 0 0 0 0
+-
+172.69.134.203
+0 5 5 59935 0 0 0 0
+-
+172.69.135.132
+0 2 2 11354 0 0 0 0
+-
+141.101.107.58
+0 1 1 5117 0 0 0 0
+-
+162.158.191.132
+0 8 8 179350 0 0 0 0
+-
+162.158.158.201
+0 1 1 47028 0 0 0 0
+-
+162.158.31.138
+0 8 8 79510 0 0 0 0
+-
+162.158.159.116
+0 1 1 2122 0 0 0 0
+-
+141.101.99.149
+0 1 1 94303 0 0 0 0
+-
+162.158.155.34
+0 1 1 3768 0 0 0 0
+-
+162.158.191.146
+0 4 4 194478 0 0 0 0
+-
+162.158.165.68
+0 2 2 5362 0 0 0 0
+-
+172.69.135.212
+0 6 6 1510990 0 0 0 0
+-
+162.158.165.108
+0 3 3 38673 0 0 0 0
+-
+162.158.191.188
+0 4 4 198499 0 0 0 0
+-
+162.158.191.162
+0 17 14 134832 2 1595157531 0 0
+/authentication
+162.158.165.236
+0 6 4 17812 0 0 0 0
+-
+172.69.135.198
+0 2 0 3628 0 0 0 0
+-
+162.158.158.245
+0 1 1 2900 0 0 0 0
+-
+172.68.146.196
+0 2 2 8720 0 0 0 0
+-
+162.158.158.131
+0 2 2 37198 0 0 0 0
+-
+162.158.167.156
+0 3 3 11577 0 0 0 0
+-
+172.68.146.142
+0 1 1 5117 0 0 0 0
+-
+172.69.134.17
+0 3 3 17988 0 0 0 0
+-
+162.158.155.130
+0 1 1 15501 0 0 0 0
+-
+162.158.165.38
+0 3 3 15351 0 0 0 0
+-
+162.158.165.30
+0 3 3 78099 0 0 0 0
+-
+162.158.167.166
+0 3 3 40659 0 0 0 0
+-
+172.69.135.238
+0 31 26 212898 1 1595161081 0 0
+/student/view
+162.158.191.140
+0 2 2 5536 0 0 0 0
+-
+162.158.165.120
+0 8 8 31003 0 0 0 0
+-
+162.158.167.116
+0 2 2 14810 0 0 0 0
+-
+172.69.135.226
+0 2 0 3626 0 0 0 0
+-
+162.158.167.106
+0 4 4 154724 0 0 0 0
+-
+172.69.134.167
+0 16 7 58763 1 1595127355 0 0
+/fees/invoice/2
+162.158.154.87
+0 1 0 1814 0 0 0 0
+-
+162.158.154.177
+0 1 1 5117 0 0 0 0
+-
+141.101.98.82
+0 1 1 26033 0 0 0 0
+-
+172.69.134.191
+0 2 2 17762 0 0 0 0
+-
+162.158.165.84
+0 2 2 24106 0 0 0 0
+-
+162.158.155.76
+0 1 1 81964 0 0 0 0
+-
+172.68.146.76
+0 6 3 396531 0 0 0 0
+-
+162.158.154.201
+0 2 1 7812 0 0 0 0
+-
+162.158.191.166
+0 2 2 112453 0 0 0 0
+-
+162.158.158.191
+0 1 1 3377 0 0 0 0
+-
+172.69.135.210
+0 9 6 22753 0 0 0 0
+-
+162.158.191.170
+0 2 1 35470 0 0 0 0
+-
+172.69.134.83
+0 3 3 6687 0 0 0 0
+-
+162.158.159.14
+0 22 21 183443 1 1595169886 0 0
+/event/get_events_list/
+162.158.159.28
+0 1 1 14496 0 0 0 0
+-
+162.158.166.103
+0 5 5 19549 0 0 0 0
+-
+172.69.135.162
+0 8 3 41156 0 0 0 0
+-
+172.69.134.251
+0 1 1 5117 0 0 0 0
+-
+162.158.166.143
+0 4 3 45972 0 0 0 0
+-
+162.158.31.168
+0 7 7 42260 0 0 0 0
+-
+162.158.154.33
+0 1 1 5117 0 0 0 0
+-
+141.101.99.151
+0 1 1 23050 0 0 0 0
+-
+162.158.158.107
+0 1 1 5117 0 0 0 0
+-
+162.158.165.200
+0 11 8 71610 0 0 0 0
+-
+162.158.165.26
+0 3 3 7059 0 0 0 0
+-
+162.158.158.189
+0 1 1 13175 0 0 0 0
+-
+162.158.166.113
+0 2 2 5006 0 0 0 0
+-
+141.101.98.128
+0 1 1 14873 0 0 0 0
+-
+162.158.165.72
+0 2 2 12510 0 0 0 0
+-
+141.101.98.96
+0 1 1 7187 0 0 0 0
+-
+162.158.159.126
+0 2 2 20484 0 0 0 0
+-
+162.158.155.52
+0 2 1 38748 0 0 0 0
+-
+162.158.191.174
+0 4 4 11037 0 0 0 0
+-
+162.158.191.164
+0 4 4 585954 0 0 0 0
+-
+162.158.159.74
+0 1 1 5117 0 0 0 0
+-
+162.158.166.163
+0 110 100 688354 1 1595131934 0 0
+/phpmyadmin/navigation.php
+162.158.167.66
+0 3 3 117879 0 0 0 0
+-
+172.69.134.227
+0 3 3 10421 0 0 0 0
+-
+162.158.165.118
+0 3 0 5442 0 0 0 0
+-
+162.158.159.132
+0 2 2 44909 0 0 0 0
+-
+172.68.146.202
+0 2 2 4948 0 0 0 0
+-
+162.158.166.131
+0 3 3 9597 0 0 0 0
+-
+162.158.31.132
+0 9 9 33336 0 0 0 0
+-
+172.68.146.64
+0 3 3 90615 0 0 0 0
+-
+162.158.167.14
+0 4 4 11110 0 0 0 0
+-
+162.158.191.168
+0 4 4 39400 0 0 0 0
+-
+162.158.166.161
+0 2 0 3626 0 0 0 0
+-
+162.158.166.185
+0 1 1 5117 0 0 0 0
+-
+162.158.154.111
+0 1 0 1813 0 0 0 0
+-
+162.158.154.39
+0 1 1 7833 0 0 0 0
+-
+162.158.31.166
+0 12 12 237896 0 0 0 0
+-
+162.158.158.221
+0 1 1 2106 0 0 0 0
+-
+172.69.134.137
+0 4 4 38795 0 0 0 0
+-
+162.158.158.185
+0 1 1 3396 0 0 0 0
+-
+162.158.31.146
+0 10 10 521909 0 0 0 0
+-
+172.68.146.118
+0 3 0 5439 0 0 0 0
+-
+162.158.31.164
+0 4 4 195868 0 0 0 0
+-
+162.158.166.107
+0 3 2 9326 0 0 0 0
+-
+162.158.159.92
+0 1 1 32833 0 0 0 0
+-
+172.69.134.233
+0 5 5 103055 0 0 0 0
+-
+162.158.155.16
+0 3 2 9473 0 0 0 0
+-
+162.158.165.62
+0 3 1 8745 0 0 0 0
+-
+162.158.165.78
+0 5 5 28705 0 0 0 0
+-
+162.158.191.184
+0 5 5 98368 0 0 0 0
+-
+162.158.158.105
+0 1 1 5474 0 0 0 0
+-
+162.158.158.5
+0 1 1 6581 0 0 0 0
+-
+172.69.135.230
+0 7 7 230627 0 0 0 0
+-
+162.158.191.156
+0 2 2 157246 0 0 0 0
+-
+172.68.146.214
+0 1 1 5117 0 0 0 0
+-
+162.158.165.6
+0 3 3 16422 0 0 0 0
+-
+162.158.165.104
+0 3 3 7245 0 0 0 0
+-
+162.158.191.158
+0 8 8 107718 0 0 0 0
+-
+162.158.167.68
+0 3 0 5442 0 0 0 0
+-
+172.69.134.77
+0 3 3 245892 0 0 0 0
+-
+162.158.158.253
+0 1 0 1815 0 0 0 0
+-
+162.158.167.48
+0 3 2 6908 0 0 0 0
+-
+172.69.135.114
+0 1 0 1814 0 0 0 0
+-
+162.158.31.160
+0 2 2 4523 0 0 0 0
+-
+162.158.158.213
+0 2 2 10234 0 0 0 0
+-
+162.158.31.162
+0 3 3 18585 0 0 0 0
+-
+162.158.165.54
+0 2 2 87842 0 0 0 0
+-
+162.158.167.192
+0 1 1 5117 0 0 0 0
+-
+172.69.134.245
+0 4 4 18566 0 0 0 0
+-
+162.158.158.243
+0 1 1 39965 0 0 0 0
+-
+162.158.158.163
+0 1 1 130901 0 0 0 0
+-
+162.158.165.60
+0 3 3 14425 0 0 0 0
+-
+162.158.31.140
+0 1 1 39293 0 0 0 0
+-
+162.158.158.157
+0 1 1 2215 0 0 0 0
+-
+162.158.159.4
+0 1 1 49869 0 0 0 0
+-
+172.69.134.119
+0 3 3 43488 0 0 0 0
+-
+162.158.165.34
+0 6 6 22794 0 0 0 0
+-
+141.101.99.153
+0 1 1 2118 0 0 0 0
+-
+172.69.135.228
+0 3 3 7308 0 0 0 0
+-
+162.158.154.165
+0 1 1 16547 0 0 0 0
+-
+162.158.165.206
+0 1 1 5117 0 0 0 0
+-
+162.158.155.202
+0 1 1 5117 0 0 0 0
+-
+141.101.107.156
+0 1 1 9721 0 0 0 0
+-
+162.158.158.159
+0 1 0 1813 0 0 0 0
+-
+162.158.158.239
+0 2 2 12183 0 0 0 0
+-
+162.158.166.111
+0 5 3 9994 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://scolus.enroles.com/userrole/homework
+0 1
+https://scolus.enroles.com/library/book_manage
+0 105
+https://scolus.enroles.com/live_class/edit/1
+0 3
+https://scolus.enroles.com/dashboard
+0 2287
+http://scolus.enroles.com/assets/login_page/css/style.css
+0 16
+http://scolus.enroles.com/uploads/app_image/logo-small.png
+0 1
+https://scolus.enroles.com/accounting/voucher_head
+0 2
+http://scolus.enroles.com/custom_field
+0 1
+http://scolus.enroles.com/assets/vendor/bootstrap/css/bootstrap.css
+0 2
+http://scolus.enroles.com/userrole/subject
+0 1
+https://scolus.enroles.com/role/edit/3
+0 1
+http://scolus.enroles.com/live_class/edit/1
+0 2
+https://scolus.enroles.com/userrole/invoice
+0 8
+https://scolus.enroles.com/timetable/viewclass
+0 12
+https://scolus.enroles.com/admin
+0 1
+https://scolus.enroles.com/library/book_edit/2
+0 2
+https://scolus.enroles.com/assets/css/ramom.css
+0 7
+https://scolus.enroles.com/subject/edit/4
+0 2
+http://scolus.enroles.com/exam/grade
+0 1
+https://scolus.enroles.com/attachments
+0 76
+http://scolus.enroles.com/userrole/attachments
+0 2
+https://scolus.enroles.com/live_class/edit/2
+0 1
+http://scolus.enroles.com/payroll
+0 3
+https://scolus.enroles.com/fees/invoice/2
+0 263
+https://scolus.enroles.com/fees/payment_history
+0 673
+https://scolus.enroles.com/library/book_edit/1
+0 1
+https://scolus.enroles.com/live_class
+0 155
+https://scolus.enroles.com/fees/fine_report
+0 1
+https://scolus.enroles.com/userrole/exam_schedule
+0 1
+https://scolus.enroles.com/userrole/livejoin
+0 29
+http://scolus.enroles.com/communication/mailbox/inbox
+0 9
+https://scolus.enroles.com/userrole/teachers
+0 4
+https://scolus.enroles.com/fees/invoice/1
+0 225
+http://scolus.enroles.com/branch
+0 6
+https://scolus.enroles.com/assets/js/custom.js
+0 1
+http://scolus.enroles.com/live_class/host
+0 11
+https://scolus.enroles.com/exam/marksheet
+0 1
+http://scolus.enroles.com/student/category
+0 3
+http://scolus.enroles.com/dashboard
+0 610
+https://scolus.enroles.com/student/transfer
+0 2
+https://scolus.enroles.com/profile
+0 21
+https://scolus.enroles.com/accounting/balance_sheet
+0 2
+http://scolus.enroles.com/system_update
+0 1
+http://scolus.enroles.com/authentication
+0 280
+https://scolus.enroles.com/assets/vendor/font-awesome/css/all.min.css
+0 156
+http://scolus.enroles.com/userrole/invoice
+0 3
+https://scolus.enroles.com/phpmyadmin/
+0 2
+https://scolus.enroles.com/userrole/book
+0 1
+https://scolus.enroles.com/assets/js/app.js
+0 1
+https://scolus.enroles.com/employee/view/3
+0 2
+http://scolus.enroles.com/employee/view
+0 7
+https://scolus.enroles.com/backup
+0 4
+http://scolus.enroles.com/settings/universal
+0 32
+https://scolus.enroles.com/homework
+0 8
+https://scolus.enroles.com/userrole/subject
+0 158
+https://scolus.enroles.com/communication/mailbox/inbox
+0 20
+http://scolus.enroles.com/sections
+0 3
+https://scolus.enroles.com/employee/designation
+0 3
+- (Direct Request)
+0 2446
+http://scolus.enroles.com/attendance/student_entry
+0 5
+https://scolus.enroles.com/employee/department
+0 4
+https://scolus.enroles.com/accounting/account_statement
+0 5
+https://scolus.enroles.com/subject/index
+0 26
+https://scolus.enroles.com/assets/vendor/simple-line-icons/css/simple-line-icons.css
+0 61
+https://scolus.enroles.com/fees/group
+0 4
+http://scolus.enroles.com/role
+0 2
+https://scolus.enroles.com/authentication
+0 810
+https://scolus.enroles.com/student/generate_idcard
+0 6
+http://scolus.enroles.com/live_class
+0 35
+https://scolus.enroles.com/assets/js/app.fn.js
+0 12
+http://scolus.enroles.com/userrole/attendance
+0 6
+https://scolus.enroles.com/
+0 2
+https://scolus.enroles.com/fees/getTypeByBranch
+0 1
+https://scolus.enroles.com/uploads/app_image/printing-logo.png
+0 1
+https://scolus.enroles.com/employee/view/
+0 9
+http://scolus.enroles.com/backup
+0 3
+http://scolus.enroles.com/subject/class_assign
+0 2
+http://scolus.enroles.com/school_settings
+0 4
+https://scolus.enroles.com/attendance/student_entry
+0 18
+https://scolus.enroles.com/classes
+0 27
+https://scolus.enroles.com/sections
+0 4
+https://scolus.enroles.com/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 26
+https://scolus.enroles.com/assets/vendor/summernote/summernote.css
+0 1
+https://scolus.enroles.com/classes/teacher_allocation
+0 55
+https://scolus.enroles.com/accounting/transitions_repots
+0 9
+https://scolus.enroles.com/userrole/report_card
+0 1
+https://scolus.enroles.com/library/request
+0 7
+https://scolus.enroles.com/assets/login_page/css/style.css
+0 47
+https://scolus.enroles.com/fees/fine_setup
+0 1
+https://scolus.enroles.com/fees/group/1
+0 3
+https://scolus.enroles.com/employee/add
+0 28
+https://scolus.enroles.com/userrole/homework
+0 2
+https://scolus.enroles.com/userrole/attendance
+0 5
+https://scolus.enroles.com/accounting/all_transactions
+0 2
+https://scolus.enroles.com/accounting
+0 7
+https://scolus.enroles.com/fees/type
+0 44
+http://scolus.enroles.com/userrole/livejoin
+0 28
+https://scolus.enroles.com/homework/report
+0 1
+https://scolus.enroles.com/student/add
+0 144
+https://scolus.enroles.com/fees/invoice_list
+0 269
+http://scolus.enroles.com/student/generate_idcard
+0 2
+http://scolus.enroles.com/assets/vendor/font-awesome/css/all.min.css
+0 48
+https://scolus.enroles.com/employee/profile/2
+0 1
+https://scolus.enroles.com/library/book
+0 33
+https://scolus.enroles.com/dashboard/index
+0 2
+https://scolus.enroles.com/student/profile/1
+0 10
+http://scolus.enroles.com/classes
+0 6
+https://scolus.enroles.com/system_update
+0 2
+http://scolus.enroles.com/school_settings/live_class_config
+0 4
+https://scolus.enroles.com/homework/add
+0 8
+https://scolus.enroles.com/subject
+0 5
+https://scolus.enroles.com/employee/view
+0 3
+https://scolus.enroles.com/student/disable_authentication
+0 1
+http://scolus.enroles.com/student/view
+0 12
+https://scolus.enroles.com/accounting/voucher_expense
+0 4
+https://scolus.enroles.com/live_class/host
+0 42
+https://scolus.enroles.com/fees/allocation
+0 39
+https://scolus.enroles.com/attachments/type
+0 3
+http://scolus.enroles.com/exam/mark_entry
+0 7
+https://scolus.enroles.com/student/csv_import
+0 14
+https://scolus.enroles.com/school_settings
+0 4
+https://scolus.enroles.com/fees/due_report
+0 4
+https://scolus.enroles.com/ajax/getDataByBranch
+0 1
+https://scolus.enroles.com/subject/class_assign
+0 1385
+http://scolus.enroles.com/authentication/logout
+0 6
+http://scolus.enroles.com/exam
+0 1
+https://scolus.enroles.com/custom_field
+0 4
+http://scolus.enroles.com/userrole/live_class
+0 19
+https://scolus.enroles.com/userrole/attachments
+0 1
+https://scolus.enroles.com/role/permission/3
+0 3
+https://scolus.enroles.com/authentication/logout
+0 52
+https://scolus.enroles.com/student/view
+0 218
+https://scolus.enroles.com/branch
+0 9
+https://scolus.enroles.com/assets/vendor/dropify/css/dropify.min.css
+0 22
+https://scolus.enroles.com/fees/due_invoice
+0 6
+http://scolus.enroles.com/student/add
+0 15
+https://scolus.enroles.com/subject/edit_extra_subject
+0 16
+https://scolus.enroles.com/accounting/voucher_deposit
+0 6
+https://scolus.enroles.com/userrole/class_schedule
+0 1
+https://scolus.enroles.com/attendance/studentwise_report
+0 6
+https://scolus.enroles.com/userrole/live_class
+0 39
+https://scolus.enroles.com/fees/type_edit/1
+0 2
+https://scolus.enroles.com/subject/extra_assign_subject
+0 13
+https://scolus.enroles.com/role
+0 2
+https://scolus.enroles.com/fees/student_fees_report
+0 184
+http://scolus.enroles.com/userrole/leave_request
+0 5
+https://scolus.enroles.com/phpmyadmin/themes/pmahomme/css/theme.css
+0 733
+https://scolus.enroles.com/subject/teacher_assign
+0 54
+http://scolus.enroles.com/assets/vendor/dropify/css/dropify.min.css
+0 4
+https://scolus.enroles.com/assets/vendor/bootstrap/css/bootstrap.css
+0 10
+https://scolus.enroles.com/live_class/
+0 6
+http://scolus.enroles.com/assets/vendor/simple-line-icons/css/simple-line-icons.css
+0 14
+https://scolus.enroles.com/settings/universal
+0 69
+http://scolus.enroles.com/phpmyadmin/themes/pmahomme/css/theme.css
+0 33
+https://scolus.enroles.com/library/category
+0 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0; +http://www.cloudflare.com/always-online) AppleWebKit/534.34
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.
+0 187
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 7169
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2
+Mozilla/5.0 (Linux; U; Android 10; en-us; CPH1945 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 104
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 1132
+Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0;+http://www.cloudflare.com/always-online)
+0 1
+Mozilla/5.0 (Linux; Android 9; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 49
+WhatsApp/2.2025.7 N
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 3881
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 10
+Mozilla/5.0 (Linux; Android 10; CPH1945) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 26
+Mozilla/5.0 (Linux; Android 9; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 43
+WhatsApp/2.2027.10 N
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

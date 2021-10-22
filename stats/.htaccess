@@ -1,0 +1,7 @@
+AuthName "scolus.enroles.com statistics"
+AuthType Basic
+AuthUserFile /home/scolus/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
